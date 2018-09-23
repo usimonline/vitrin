@@ -601,13 +601,24 @@
 
 
 
-      <script type="text/javascript">$(document).ready(function() { t433_setMapHeight("60130970"); var fireRefreshEventOnWindow = function () { var evt = document.createEvent("HTMLEvents"); evt.initEvent('resize', true, false); window.dispatchEvent(evt); }; $('.t433').bind('displayChanged',function(){ $("#separateMap60130970").css("height", "auto"); t433_setMapHeight("60130970"); fireRefreshEventOnWindow(); }); $(window).load(function() { t433_setMapHeight("60130970"); }); $(window).resize(function(){ t433_setMapHeight("60130970"); });
-});</script></div><div id="rec64313855" class="r t-rec" style=" " data-animationappear="off" data-record-type="131"><!-- T123 -->
-      <div class="t123"><div class="t-container_100 "><div class="t-width t-width_100 ">
-<style> .son_wrapper { width: 150px; height: 150px; position: fixed; bottom: 0;right: 0; border:0px solid #f00; z-index:9999; } .son_wrapper a { text-decoration:none; } .son_circle { width:100px; height:100px; border-radius:250px; font-size:14px; font-family: Play, sans-serif !important; color:#fff; line-height:25px; text-align:center; background:#f00; } @keyframes son_outercircle { 0% { transform: scale(1,1) opacity: 1; } 80% { opacity: 0.8; } 100% { transform: scale(2,2); opacity: 0; } } .son_outercircle { z-index: -1000; position: absolute; width: 60px; height: 60px; border: 5px solid #f00; border-radius: 50%; animation: son_outercircle 2s infinite linear; margin-top: 15px ; margin-left: 15px ; } </style>
-<div class="son_wrapper">
-<div class="son_outercircle"></div>
-<a href="http://<?php echo $site_name; ?>/?utm_source=google&amp;utm_medium=cpc&amp;utm_term=%D0%B8%D0%BC%D0%B8%D0%B4%D0%B6%20%2B%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%2B%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&amp;utm_campaign={campaign_id}#" onclick="showSonlineWidget(sonlineWidgetOptions);"> <div class="son_circle"><br>Онлайн<br> запись</div></a>
+    
+
+    </div>
+    <div id="rec64313855" class="r t-rec" style=" " data-animationappear="off" data-record-type="131"><!-- T123 -->
+      <div class="t123">
+        <div class="t-container_100 "><div class="t-width t-width_100 ">
+
+            <style> .son_wrapper { width: 150px; height: 150px; position: fixed; bottom: 0;right: 0; border:0px solid #f00; z-index:9999; } .son_wrapper a { text-decoration:none; } .son_circle { width:100px; height:100px; border-radius:250px; font-size:14px; font-family: Play, sans-serif !important; color:#fff; line-height:25px; text-align:center; background:#f00; } @keyframes son_outercircle { 0% { transform: scale(1,1) opacity: 1; } 80% { opacity: 0.8; } 100% { transform: scale(2,2); opacity: 0; } } .son_outercircle { z-index: -1000; position: absolute; width: 60px; height: 60px; border: 5px solid #f00; border-radius: 50%; animation: son_outercircle 2s infinite linear; margin-top: 15px ; margin-left: 15px ; }
+            </style>
+
+            <div class="son_wrapper">
+
+              <div class="son_outercircle"></div>
+
+              <a href="http://<?php echo $site_name; ?>/?utm_source=google&amp;utm_medium=cpc&amp;utm_term=%D0%B8%D0%BC%D0%B8%D0%B4%D0%B6%20%2B%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%2B%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&amp;utm_campaign={campaign_id}#" onclick="showSonlineWidget(sonlineWidgetOptions);">
+                <div class="son_circle"><br>Онлайн<br> запись
+                </div>
+              </a>
 </div>
 
 <script>var sonlineWidgetOptions = {placeid: 60}</script>

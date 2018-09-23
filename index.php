@@ -665,9 +665,9 @@
     <div id="rec60130970" class="r t-rec t-rec_pt_30 t-rec_pb_30" style="padding-top:30px;padding-bottom:30px;background-color:#ffffff; " data-animationappear="off" data-record-type="433" data-bg-color="#ffffff"><!-- t433 -->
       <div class="t433">
         <div class="t-width t-width_100 t433__mainblock" style="margin:0 auto; background-color:#000000;">
-          <div class="t433__map t433__col" style="height: 500px;">
+          <div class="t433__map t433__col" style="width: 100%; height: 100%!important;">
 
-            <iframe src="https://yandex.by/map-widget/v1/-/CBBRU6wTtA" width: 100%; height: 100%!important; frameborder="1" allowfullscreen="true">
+            <iframe src="https://yandex.by/map-widget/v1/-/CBBRU6wTtA" frameborder="1" allowfullscreen="true">
 
             </iframe>
 

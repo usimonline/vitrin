@@ -667,7 +667,7 @@
         <div class="t-width t-width_100 t433__mainblock" style="margin:0 auto; background-color:#000000;">
           <div class="t433__map t433__col" style="height: 500px;">
 
-            <iframe src="https://yandex.by/map-widget/v1/-/CBBRU6wTtA" width: 100%;     height: 100%!important; frameborder="1" allowfullscreen="true">
+            <iframe src="https://yandex.by/map-widget/v1/-/CBBRU6wTtA" width: 100%; height: 100%!important; frameborder="1" allowfullscreen="true">
 
             </iframe>
 

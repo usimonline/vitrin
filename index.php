@@ -637,6 +637,11 @@
 
 </div>
 
+<div class="t360__progress" style="display: none;">
+  <div class="t360__bar t360__barprogressfinished t360__barprogresshidden">
+
+  </div>
+</div>
 
 <script type="text/javascript" src="./index/json.txt">
 

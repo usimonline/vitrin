@@ -109,7 +109,7 @@
             <div class="t770__listwrapper t770__mobilelist">
               <ul class="t770__list">
                 <li class="t770__list_item">
-                  <a class="t-menu__link-item t794__tm-link" href="#rec64320842" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="1" data-tooltip-menu-id="64330707">Услуги
+                  <a class="t-menu__link-item" href="#rec64320842" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="1" data-tooltip-menu-id="64330707">Услуги
                     <div class="t794__arrow" style="height: 0px;">
 
                     </div>

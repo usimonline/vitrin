@@ -351,7 +351,7 @@
 
     <script type="text/javascript">
       $(document).ready(function(){
-        if(true){
+        if($isMobile == false){
           $("#rec62122797 .t226__floatable[data-floating='yes']").each(function() { var el=$(this); t226_floating_init(el); });
           $('.t226').bind('displayChanged',function(){
             $("#rec62122797 .t226__floatable[data-floating='yes']").each(function() {

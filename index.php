@@ -11,16 +11,14 @@
   <meta property="og:title" content="Студия Витрин - салон красоты в Минске">
   <meta property="og:description" content="Имидж-студия Витрин Lab, г. Минск, м. Площадь Победы, пр. Машерова д.9 оф. 208">
   <meta property="og:type" content="website">
-  <meta property="og:image" content="https://static.tildacdn.com/tild6438-3465-4135-b764-356435393536/PERSONA_logo_frame.png">
+  <meta property="og:image" content="https://<?php echo $site_name; ?>/index/44444.jpg">
   <meta property="fb:app_id" content="257953674358265">
   <meta name="format-detection" content="telephone=no">
   <meta http-equiv="x-dns-prefetch-control" content="on">
-  <link rel="dns-prefetch" href="https://tilda.ws/">
-  <link rel="dns-prefetch" href="https://static.tildacdn.com/">
   <meta name="description" content="Имидж-студия Витрин Lab, г. Минск, м. Площадь Победы, пр. Машерова д.9 оф. 208">
   <meta name="keywords" content="элитный салон красоты, элитные салоны красоты +в Минске, центр красоты Минск, центр красоты, услуги студии красоты, услуги салона красоты Минск, услуги салона красоты, телефон салона красоты, студия красоты цены, студия красоты Площадь Победы, студия красоты Якуба Коласа">
   <link rel="canonical" href="http://<?php echo $site_name; ?>/">
-  <link rel="shortcut icon" href="https://static.tildacdn.com/tild3664-3236-4936-a137-643731653463/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   <!-- Assets -->
   <link rel="stylesheet" href="./index/tilda-grid-3.0.min.css" type="text/css" media="all">
   <link rel="stylesheet" href="./index/tilda-blocks-2.12.css" type="text/css" media="all">
@@ -44,6 +42,8 @@
   <script src="./index/hammer.min.js.Без названия"></script>
   <script src="./index/tilda-forms-1.0.min.js.Без названия"></script>
   <script src="./index/tilda-map-1.0.min.js.Без названия"></script>
+
+
   <!-- Facebook Pixel Code -->
 
 <script>
@@ -65,15 +65,8 @@
 /></noscript>
 
 
-
-<!-- End Facebook Pixel Code --><script type="text/javascript">window.dataLayer = window.dataLayer || [];</script>
-
-
-  <!-- Google Tag Manager --><script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);	})(window,document,'script','dataLayer','UA-116495850-5');
-  </script>
-
-  <!-- End Google Tag Manager -->
-
+<!-- End Facebook Pixel Code -->
+  <script type="text/javascript">window.dataLayer = window.dataLayer || [];</script>
 
 
 </head>

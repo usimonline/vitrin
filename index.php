@@ -9,16 +9,16 @@ require_once ('requisites.php');
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Студия Витрин - салон красоты в Минске</title>
+  <title>Акции | Студия Витрин - салон красоты в Минске</title>
   <meta property="og:url" content="http://<?php echo $site_name; ?>/">
-  <meta property="og:title" content="Студия Витрин - салон красоты в Минске">
-  <meta property="og:description" content="Имидж-студия Витрин Lab, г. Минск, м. Площадь Победы, пр. Машерова д.9 оф. 208">
+  <meta property="og:title" content="Акции | Студия Витрин - салон красоты в Минске">
+  <meta property="og:description" content="Акции | Имидж-студия Витрин Lab, г. Минск, м. Площадь Победы, пр. Машерова д.9 оф. 208">
   <meta property="og:type" content="website">
   <meta property="og:image" content="https://<?php echo $site_name; ?>/index/44444.jpg">
   <meta property="fb:app_id" content="257953674358265">
   <meta name="format-detection" content="telephone=no">
   <meta http-equiv="x-dns-prefetch-control" content="on">
-  <meta name="description" content="Имидж-студия Витрин Lab, г. Минск, м. Площадь Победы, пр. Машерова д.9 оф. 208">
+  <meta name="description" content="Акции | Имидж-студия Витрин Lab, г. Минск, м. Площадь Победы, пр. Машерова д.9 оф. 208">
   <meta name="keywords" content="элитный салон красоты, элитные салоны красоты +в Минске, центр красоты Минск, центр красоты, услуги студии красоты, услуги салона красоты Минск, услуги салона красоты, телефон салона красоты, студия красоты цены, студия красоты Площадь Победы, студия красоты Якуба Коласа">
   <link rel="canonical" href="http://<?php echo $site_name; ?>/">
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">

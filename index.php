@@ -667,62 +667,9 @@
           <div class="t433__map t433__col" style="height: 500px;">
 
             <div class="t-map" id="separateMap60130970" data-map-language="" data-map-x="-74.005941" data-map-y="40.7127837" data-map-zoom="17" data-map-title=" КОНТАКТЫ " style="width:100%; height:500px;" data-map-style="[{&quot;featureType&quot;:&quot;all&quot;,&quot;elementType&quot;:&quot;labels.text.fill&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:36},{&quot;color&quot;:&quot;#000000&quot;},{&quot;lightness&quot;:40}]},{&quot;featureType&quot;:&quot;all&quot;,&quot;elementType&quot;:&quot;labels.text.stroke&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;on&quot;},{&quot;color&quot;:&quot;#000000&quot;},{&quot;lightness&quot;:16}]},{&quot;featureType&quot;:&quot;all&quot;,&quot;elementType&quot;:&quot;labels.icon&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;administrative&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#000000&quot;},{&quot;lightness&quot;:20}]},{&quot;featureType&quot;:&quot;administrative&quot;,&quot;elementType&quot;:&quot;geometry.stroke&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#000000&quot;},{&quot;lightness&quot;:17},{&quot;weight&quot;:1.2}]},{&quot;featureType&quot;:&quot;landscape&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#000000&quot;},{&quot;lightness&quot;:20}]},{&quot;featureType&quot;:&quot;poi&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#000000&quot;},{&quot;lightness&quot;:21}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#000000&quot;},{&quot;lightness&quot;:17}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;geometry.stroke&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#000000&quot;},{&quot;lightness&quot;:29},{&quot;weight&quot;:0.2}]},{&quot;featureType&quot;:&quot;road.arterial&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#000000&quot;},{&quot;lightness&quot;:18}]},{&quot;featureType&quot;:&quot;road.local&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#000000&quot;},{&quot;lightness&quot;:16}]},{&quot;featureType&quot;:&quot;transit&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#000000&quot;},{&quot;lightness&quot;:19}]},{&quot;featureType&quot;:&quot;water&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#000000&quot;},{&quot;lightness&quot;:17}]}]">
-              <ymaps class="ymaps-2-1-68-map" style="width: 675px; height: 500px;">
-                <ymaps class="ymaps-2-1-68-map ymaps-2-1-68-i-ua_js_yes ymaps-2-1-68-map-bg ymaps-2-1-68-islets_map-lang-ru" style="width: 675px; height: 500px;">
-                  <ymaps class="ymaps-2-1-68-inner-panes">
-                    <ymaps class="ymaps-2-1-68-events-pane ymaps-2-1-68-user-selection-none" unselectable="on" style="height: 100%; width: 100%; top: 0px; left: 0px; position: absolute; z-index: 2500; cursor: url(&quot;https://api-maps.yandex.ru/2.1.68/build/release/images/cursor/grab.cur&quot;) 16 16, url(&quot;https://api-maps.yandex.ru/2.1.68/build/release/images/cursor/grab.cur&quot;), move;">
+              <iframe src="https://yandex.by/map-widget/v1/-/CBBRU6wTtA" width="560" height="400" frameborder="1" allowfullscreen="true">
 
-                    </ymaps>
-                    <ymaps class="ymaps-2-1-68-ground-pane" style="top: 0px; left: 0px; position: absolute; transition-duration: 0ms; transform: translate3d(0px, 0px, 0px) scale(1, 1); z-index: 501;">
-                      <ymaps style="z-index: 150; position: absolute;">
-                        <canvas height="756" width="931" style="position: absolute; width: 931px; height: 756px; left: -128px; top: -128px;">
-
-                        </canvas>
-                      </ymaps>
-                    </ymaps>
-                    <ymaps class="ymaps-2-1-68-copyrights-pane" style="height: 0px; bottom: 0px; right: 0px; top: auto; left: 0px; position: absolute; z-index: 5002;">
-                      <ymaps>
-                        <ymaps class="ymaps-2-1-68-copyright ymaps-2-1-68-copyright_logo_no" style="">
-                          <ymaps class="ymaps-2-1-68-copyright__fog">…
-                          </ymaps>
-                          <ymaps class="ymaps-2-1-68-copyright__wrap">
-                            <ymaps class="ymaps-2-1-68-copyright__layout">
-                              <ymaps class="ymaps-2-1-68-copyright__content-cell">
-                                <ymaps class="ymaps-2-1-68-copyright__content">
-                                  <ymaps class="ymaps-2-1-68-copyright__text">© Яндекс
-                                  </ymaps>
-                                  <ymaps class="ymaps-2-1-68-copyright__agreement">&nbsp;
-                                    <a class="ymaps-2-1-68-copyright__link" target="_blank" href="https://yandex.ru/legal/maps_termsofuse/?lang=ru">Условия использования
-                                    </a>
-                                  </ymaps>
-                                </ymaps>
-                              </ymaps>
-                              <ymaps class="ymaps-2-1-68-copyright__logo-cell">
-                                <a class="ymaps-2-1-68-copyright__logo" href="http://<?php echo $site_name; ?>/?utm_source=google&amp;utm_medium=cpc&amp;utm_term=%D0%B8%D0%BC%D0%B8%D0%B4%D0%B6%20%2B%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%2B%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&amp;utm_campaign={campaign_id}" target="_blank">
-                                  </a>
-
-                              </ymaps>
-                            </ymaps>
-                          </ymaps>
-                        </ymaps>
-                      </ymaps>
-                      <ymaps class="ymaps-2-1-68-map-copyrights-promo">
-                        <iframe src="https://yandex.by/map-widget/v1/-/CBBRU6wTtA" width="560" height="400" frameborder="1" allowfullscreen="true">
-
-                        </iframe>
-
-                      </ymaps>
-                    </ymaps>
-                    <ymaps class="ymaps-2-1-68-controls-pane" style="width: 100%; top: 0px; left: 0px; position: absolute; z-index: 4503;">
-                      <ymaps class="ymaps-2-1-68-controls__toolbar" style="margin-top: 10px;">
-                        <ymaps class="ymaps-2-1-68-controls__toolbar_left">
-
-                        </ymaps>
-                        <ymaps class="ymaps-2-1-68-controls__toolbar_right">
-                          <ymaps class="ymaps-2-1-68-controls__control_toolbar" style="margin-right: 10px; margin-left: 0px; position: inherit;">
-                            <ymaps>
-                              <ymaps class="ymaps-2-1-68-listbox ymaps-2-1-68-listbox_opened_no ymaps-2-1-68-listbox_align_right" style="width: 87px;"><ymaps class="ymaps-2-1-68-listbox__button ymaps-2-1-68-_visible-arrow ymaps-2-1-68-user-selection-none" unselectable="on" title="undefined"><ymaps class="ymaps-2-1-68-listbox__button-icon ymaps-2-1-68-_icon_layers"></ymaps><ymaps class="ymaps-2-1-68-listbox__button-text">Слои</ymaps><ymaps class="ymaps-2-1-68-listbox__button-arrow"></ymaps></ymaps><ymaps class="ymaps-2-1-68-listbox__panel ymaps-2-1-68-i-custom-scroll" style="transform: translate3d(0px, 0px, 0px) scale(1, 1);"><ymaps class="ymaps-2-1-68-listbox__list" style="max-height: 999999px;"><ymaps><ymaps><ymaps id="id_153761261124240143319"><ymaps unselectable="on" class="ymaps-2-1-68-user-selection-none"><ymaps class="ymaps-2-1-68-listbox__list-item ymaps-2-1-68-listbox__list-item_selected_yes"><ymaps class="ymaps-2-1-68-listbox__list-item-text">Схема</ymaps></ymaps></ymaps></ymaps></ymaps></ymaps><ymaps><ymaps><ymaps id="id_153761261124240143320"><ymaps unselectable="on" class="ymaps-2-1-68-user-selection-none"><ymaps class="ymaps-2-1-68-listbox__list-item ymaps-2-1-68-listbox__list-item_selected_no"><ymaps class="ymaps-2-1-68-listbox__list-item-text">Спутник</ymaps></ymaps></ymaps></ymaps></ymaps></ymaps><ymaps><ymaps><ymaps id="id_153761261124240143321"><ymaps unselectable="on" class="ymaps-2-1-68-user-selection-none"><ymaps class="ymaps-2-1-68-listbox__list-item ymaps-2-1-68-listbox__list-item_selected_no"><ymaps class="ymaps-2-1-68-listbox__list-item-text">Гибрид</ymaps></ymaps></ymaps></ymaps></ymaps></ymaps><ymaps><ymaps><ymaps id="id_153761261124240143317"><ymaps><ymaps class="ymaps-2-1-68-listbox__list-separator"></ymaps></ymaps></ymaps></ymaps></ymaps><ymaps><ymaps><ymaps id="id_153761261124240143318"><ymaps unselectable="on" class="ymaps-2-1-68-user-selection-none"><ymaps class="ymaps-2-1-68-listbox__list-item ymaps-2-1-68-listbox__list-item_selected_no"><ymaps class="ymaps-2-1-68-listbox__list-item-text">Панорамы</ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps><ymaps class="ymaps-2-1-68-controls__bottom" style="top: 500px;"></ymaps><ymaps class="ymaps-2-1-68-controls__control" style="margin-right: 0px; margin-left: 0px; position: inherit; bottom: auto; top: 108px; right: auto; left: 10px;"><ymaps><ymaps class="ymaps-2-1-68-zoom" style="height: 150px"><ymaps class="ymaps-2-1-68-zoom__plus ymaps-2-1-68-zoom__button ymaps-2-1-68-float-button ymaps-2-1-68-user-selection-none" unselectable="on"><ymaps class="ymaps-2-1-68-zoom__icon ymaps-2-1-68-float-button-icon"></ymaps></ymaps><ymaps class="ymaps-2-1-68-zoom__minus ymaps-2-1-68-zoom__button ymaps-2-1-68-float-button ymaps-2-1-68-user-selection-none" unselectable="on"><ymaps class="ymaps-2-1-68-zoom__icon ymaps-2-1-68-float-button-icon"></ymaps></ymaps><ymaps class="ymaps-2-1-68-zoom__scale"><ymaps class="ymaps-2-1-68-zoom__runner ymaps-2-1-68-zoom__button ymaps-2-1-68-float-button ymaps-2-1-68-zoom__runner__transition ymaps-2-1-68-touch-action-none ymaps-2-1-68-user-selection-none" unselectable="on" style="top: 14px;"><ymaps class="ymaps-2-1-68-zoom__icon ymaps-2-1-68-float-button-icon ymaps-2-1-68-float-button-icon_icon_runner"></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps><ymaps class="ymaps-2-1-68-places-pane" style="top: 0px; left: 0px; position: absolute; transition-duration: 0ms; transform: translate3d(0px, 0px, 0px) scale(1, 1); z-index: 2004;"><ymaps class="ymaps-2-1-68-placemark-overlay ymaps-2-1-68-user-selection-none" unselectable="on" style="z-index: 650; height: 0px; width: 0px; position: absolute; left: 337px; top: 250px;"><ymaps><ymaps class="ymaps-2-1-68-islets_icon-with-caption"><ymaps class="ymaps-2-1-68-islets_icon-with-caption__caption-block"><ymaps class="ymaps-2-1-68-islets_icon-caption" style="padding: 0px; max-width: 0px;"></ymaps></ymaps><ymaps id="id_153761261124240143351"><ymaps class="ymaps-2-1-68-svg-icon ymaps_https___api_maps_yandex_ru_2_1_68_1005782257820islands_icon___1E98FF_34x41_1537612618137" style="position: absolute; width: 34px; height: 41px; left: -11px; top: -38px;"><ymaps class="ymaps-2-1-68-svg-icon-content" style="font: 13px Arial, sans-serif; position: absolute; text-align: center;left: 5px;top: 6px;width: 16px;height: 16px;"><ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps></ymaps>
-              </ymaps>
+              </iframe>
 
             </div>
 

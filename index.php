@@ -314,57 +314,7 @@
     </div>
   </div>
 
-  <div id="rec62122797" class="r t-rec t-rec_pt_30 t-rec_pb_0 t-screenmin-980px" style="padding-top:30px;padding-bottom:0px;background-color:#ffffff; " data-record-type="256" data-screen-min="980px" data-bg-color="#ffffff" data-animationappear="off"><!-- T226 -->
-    <div class="t226">
-      <div class="t-container">
-        <div class="t-col t-col_6 t226__flexcolumn t226__center" style="min-height: 373px;">
-          <div class="t226__floatable t226__fixedTop" data-floating="yes" style="max-width: 560px; width: 100%;">
-            <img src="./index/44444.jpg" data-original="./index/44444.jpg" imgfiled="img" class="t226__img t-img loaded">
-          </div>
-        </div>
-        <div class="t-col t-col_6 t226__flexcolumn center" style="min-height: 293px;">
-          <div class="t226__textwrapper t226__floatable t226__fixedTop" data-floating="yes" style="max-width: 560px; width: 100%;">
-            <div class="t226__title t-heading t-heading_md" style="" field="title">
-              <div style="color:#000000;" data-customstyle="yes">Знакомство с Витрин
-              </div>
-            </div>
-            <div class="t226__text t-text t-text_sm" style="" field="text">
-              <div style="color:#000000;" data-customstyle="yes">Студия Витрин приглашает новых гостей и <span style="font-weight: 700;">дарит скидку 20%</span> на все услуги салона. Это возможность получить новые эмоции и ощущения от наших профессиональных мастеров. Приходите к нам в гости за новым стилем и удовольствием<br>
-              </div>
-            </div>
-            <div class="t256__btn-container">
-              <div class="t256__btn-wrapper">
-                <a href="http://<?php echo $site_name; ?>/?utm_source=google&amp;utm_medium=cpc&amp;utm_term=%D0%B8%D0%BC%D0%B8%D0%B4%D0%B6%20%2B%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%2B%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&amp;utm_campaign={campaign_id}#popup:new20" target="" class="t-btn js-click-stat" data-tilda-event-name="/tilda/click/rec62122797/button1" style="color:#ffffff;background-color:#000000;">
-                  <table style="width:100%; height:100%;">
-                    <tbody>
-                    <tr><td>Получить скидку!</td></tr>
-                    </tbody>
-                  </table>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-
-    <script type="text/javascript">
-      $(document).ready(function(){
-        if($isMobile == false){
-          $("#rec62122797 .t226__floatable[data-floating='yes']").each(function() { var el=$(this); t226_floating_init(el); });
-          $('.t226').bind('displayChanged',function(){
-            $("#rec62122797 .t226__floatable[data-floating='yes']").each(function() {
-            var el=$(this); t226_floating_init(el);
-            });
-          });
-        }
-      });
-    </script>
-
-
-
-  </div>
+  
 
 
   <div id="rec62127510" class="r t-rec t-rec_pt_30 t-rec_pb_30 t-screenmin-980px" style="padding-top:30px;padding-bottom:30px;background-color:#ffffff; " data-record-type="375" data-screen-min="980px" data-bg-color="#ffffff" data-animationappear="off"><!-- T375 -->

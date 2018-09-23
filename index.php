@@ -707,7 +707,7 @@
                         </ymaps>
                       </ymaps>
                       <ymaps class="ymaps-2-1-68-map-copyrights-promo">
-                        <iframe src="https://yandex.by/map-widget/v1/-/CBBRUJbt1C" width="560" height="400" frameborder="1" allowfullscreen="true"></iframe>
+                        <iframe src="https://yandex.ua/map-widget/v1/-/CBBRURxDcB" width="560" height="400" frameborder="1" allowfullscreen="true"></iframe>
 
                         </iframe>
                       </ymaps>

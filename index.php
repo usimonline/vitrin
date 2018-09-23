@@ -629,7 +629,6 @@
   </div><!-- Stat -->
 
 
-  <!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=UA-116495850-5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) -->
 
 
 
@@ -638,11 +637,6 @@
 
 </div>
 
-<div class="t360__progress" style="display: none;">
-  <div class="t360__bar t360__barprogressfinished t360__barprogresshidden">
-
-  </div>
-</div>
 
 <script type="text/javascript" src="./index/json.txt">
 

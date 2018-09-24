@@ -6,7 +6,7 @@
 
     </div>
     <div class="t770__mobile"> <div class="t770__mobile_container">
-        <div class="t770__mobile_text t-name t-name_md" field="text">Витрин
+        <div class="t770__mobile_text t-name t-name_md" field="text"><?php echo $company_name; ?>
         </div>
         <div class="t770__mobile_burger"> <span></span> <span></span> <span></span> <span></span>
         </div>
@@ -320,9 +320,9 @@
                   <div class="t-cell t-valign_middle">
                     <div class="t-container">
                       <div class="t734__wrapper t-width t-width_8 t-margin_left"> <div class="t734__textwrapper t-align_left">
-                          <div class="t734__title t-title t-title_sm" field="li_title__1496797390759" style="">Салон красоты на Машерова
+                          <div class="t734__title t-title t-title_sm" field="li_title__1496797390759" style="">Школа стиля онлайн
                           </div>
-                          <div class="t734__descr t-descr t-descr_md" field="li_descr__1496797390759" style="">Имидж-лаборатория Витрин Club<br>
+                          <div class="t734__descr t-descr t-descr_md" field="li_descr__1496797390759" style="">Имидж-лаборатория <?php $company_name; ?><br>
                           </div>
                         </div>
                       </div>
@@ -383,9 +383,9 @@
                     <div class="t-container">
                       <div class="t734__wrapper t-width t-width_8 t-margin_left">
                         <div class="t734__textwrapper t-align_left">
-                          <div class="t734__title t-title t-title_sm" field="li_title__1496797390759" style="">Салон красоты на Машерова
+                          <div class="t734__title t-title t-title_sm" field="li_title__1496797390759" style="">Школа стиля онлайн
                           </div>
-                          <div class="t734__descr t-descr t-descr_md" field="li_descr__1496797390759" style="">Имидж-лаборатория Витрин Club<br>
+                          <div class="t734__descr t-descr t-descr_md" field="li_descr__1496797390759" style="">Имидж-лаборатория <?php $company_name; ?><br>
                           </div>
                         </div>
                       </div>

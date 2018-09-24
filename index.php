@@ -42,9 +42,9 @@ require_once ('requisites.php');
                   </div>
                   <div class="t686__textwrapper t686__animation_slow ">
                     <div class="t686__textwrapper__content">
-                      <div class="t686__inner-wrapper t686__inner-wrapper_animated-btn"> <div class="t686__title t-name t-name_md" field="li_title__1494497749748" style="">Стрижки и Уходы
+                      <div class="t686__inner-wrapper t686__inner-wrapper_animated-btn"> <div class="t686__title t-name t-name_md" field="li_title__1494497749748" style="">Personal Image
                         </div>
-                        <div class="t686__text t-descr t-descr_xxs" field="li_text__1494497749748" style="">Парикмахерский сервис от Витрин
+                        <div class="t686__text t-descr t-descr_xxs" field="li_text__1494497749748" style="">Консультация по изменению имиджа
                         </div>
                       </div>
                       <div class="t686__button-container t686__button_show-hover">
@@ -72,9 +72,9 @@ require_once ('requisites.php');
                   <div class="t686__textwrapper t686__animation_slow ">
                     <div class="t686__textwrapper__content">
                       <div class="t686__inner-wrapper t686__inner-wrapper_animated-btn">
-                        <div class="t686__title t-name t-name_md" field="li_title__1534857710352" style="">Окрашивание волос
+                        <div class="t686__title t-name t-name_md" field="li_title__1534857710352" style="">Школа стиля онлайн
                         </div>
-                        <div class="t686__text t-descr t-descr_xxs" field="li_text__1534857710352" style="">Colorbar от Витрин
+                        <div class="t686__text t-descr t-descr_xxs" field="li_text__1534857710352" style="">Уроки имиджмейкера Viber, Whatsapp, skype
                         </div>
                       </div>
                       <div class="t686__button-container t686__button_show-hover">
@@ -97,7 +97,7 @@ require_once ('requisites.php');
 
                   </div>
 
-                  <div class="t686__overlay t686__animation_slow" style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -o-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40));"></div> <div class="t686__textwrapper t686__animation_slow "> <div class="t686__textwrapper__content"> <div class="t686__inner-wrapper t686__inner-wrapper_animated-btn"> <div class="t686__title t-name t-name_md" field="li_title__1532087963668" style="">Мужской сервис</div> <div class="t686__text t-descr t-descr_xxs" field="li_text__1532087963668" style="">Стрижки, окрашивание и коррекция бороды</div> </div> <div class="t686__button-container t686__button_show-hover"> <div class="t686__button-wrapper"> <div class="t686__submit t-btn t-btn_sm" style="color:#ffffff;border:1px solid #ffffff;">Узнать Больше →</div> </div> </div> </div> </div> </div> </div>
+                  <div class="t686__overlay t686__animation_slow" style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -o-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40));"></div> <div class="t686__textwrapper t686__animation_slow "> <div class="t686__textwrapper__content"> <div class="t686__inner-wrapper t686__inner-wrapper_animated-btn"> <div class="t686__title t-name t-name_md" field="li_title__1532087963668" style="">Курсы стилиста и визажиста</div> <div class="t686__text t-descr t-descr_xxs" field="li_text__1532087963668" style="">Стать специалистом за 2 недели и зарабатывать</div> </div> <div class="t686__button-container t686__button_show-hover"> <div class="t686__button-wrapper"> <div class="t686__submit t-btn t-btn_sm" style="color:#ffffff;border:1px solid #ffffff;">Узнать Больше →</div> </div> </div> </div> </div> </div> </div>
             </a>
           </div>
           <div class="t686__col t-col t-col_3 t-align_left ">
@@ -111,7 +111,7 @@ require_once ('requisites.php');
                   <div class="t686__overlay t686__animation_slow" style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -o-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40));">
 
                   </div> <div class="t686__textwrapper t686__animation_slow ">
-                    <div class="t686__textwrapper__content"> <div class="t686__inner-wrapper t686__inner-wrapper_animated-btn"> <div class="t686__title t-name t-name_md" field="li_title__1532530386698" style="">Визаж &amp; Мейкап</div> <div class="t686__text t-descr t-descr_xxs" field="li_text__1532530386698" style="">Make-up от специалистов Витрин</div> </div> <div class="t686__button-container t686__button_show-hover"> <div class="t686__button-wrapper"> <div class="t686__submit t-btn t-btn_sm" style="color:#ffffff;border:1px solid #ffffff;">Узнать Больше →</div> </div> </div> </div>
+                    <div class="t686__textwrapper__content"> <div class="t686__inner-wrapper t686__inner-wrapper_animated-btn"> <div class="t686__title t-name t-name_md" field="li_title__1532530386698" style="">Шоппинг</div> <div class="t686__text t-descr t-descr_xxs" field="li_text__1532530386698" style="">Шоппинг с  имиджмейкером или под заказ</div> </div> <div class="t686__button-container t686__button_show-hover"> <div class="t686__button-wrapper"> <div class="t686__submit t-btn t-btn_sm" style="color:#ffffff;border:1px solid #ffffff;">Узнать Больше →</div> </div> </div> </div>
                   </div>
                 </div>
               </div>
@@ -127,7 +127,7 @@ require_once ('requisites.php');
 
                   </div>
 
-                  <div class="t686__overlay t686__animation_slow" style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -o-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40));"></div> <div class="t686__textwrapper t686__animation_slow "> <div class="t686__textwrapper__content"> <div class="t686__inner-wrapper t686__inner-wrapper_animated-btn"> <div class="t686__title t-name t-name_md" field="li_title__1534857783554" style="">Brow &amp; Lash Bar Bar</div> <div class="t686__text t-descr t-descr_xxs" field="li_text__1534857783554" style="">Красота ваших бровей и ресниц от Витрин</div> </div> <div class="t686__button-container t686__button_show-hover"> <div class="t686__button-wrapper"> <div class="t686__submit t-btn t-btn_sm" style="color:#ffffff;border:1px solid #ffffff;">Узнать Больше →</div> </div> </div> </div> </div> </div> </div>
+                  <div class="t686__overlay t686__animation_slow" style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -o-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40));"></div> <div class="t686__textwrapper t686__animation_slow "> <div class="t686__textwrapper__content"> <div class="t686__inner-wrapper t686__inner-wrapper_animated-btn"> <div class="t686__title t-name t-name_md" field="li_title__1534857783554" style="">Сопровождение в салон красоты</div> <div class="t686__text t-descr t-descr_xxs" field="li_text__1534857783554" style="">Ваша прическа и лицо будут невероятно красивы!</div> </div> <div class="t686__button-container t686__button_show-hover"> <div class="t686__button-wrapper"> <div class="t686__submit t-btn t-btn_sm" style="color:#ffffff;border:1px solid #ffffff;">Узнать Больше →</div> </div> </div> </div> </div> </div> </div>
 
             </a>
           </div>
@@ -142,7 +142,7 @@ require_once ('requisites.php');
 
                   </div>
 
-                  <div class="t686__overlay t686__animation_slow" style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -o-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40));"></div> <div class="t686__textwrapper t686__animation_slow "> <div class="t686__textwrapper__content"> <div class="t686__inner-wrapper t686__inner-wrapper_animated-btn"> <div class="t686__title t-name t-name_md" field="li_title__1534865307659" style="">Маникюр и Педикюр</div> <div class="t686__text t-descr t-descr_xxs" field="li_text__1534865307659" style="">Витринльный маникюр и педикюр</div> </div> <div class="t686__button-container t686__button_show-hover"> <div class="t686__button-wrapper"> <div class="t686__submit t-btn t-btn_sm" style="color:#ffffff;border:1px solid #ffffff;">Узнать Больше →</div> </div> </div> </div> </div> </div> </div>
+                  <div class="t686__overlay t686__animation_slow" style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -o-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40));"></div> <div class="t686__textwrapper t686__animation_slow "> <div class="t686__textwrapper__content"> <div class="t686__inner-wrapper t686__inner-wrapper_animated-btn"> <div class="t686__title t-name t-name_md" field="li_title__1534865307659" style="">Разбор гардероба</div> <div class="t686__text t-descr t-descr_xxs" field="li_text__1534865307659" style="">Персональный лукбук одежды и разбор гардероба на дому</div> </div> <div class="t686__button-container t686__button_show-hover"> <div class="t686__button-wrapper"> <div class="t686__submit t-btn t-btn_sm" style="color:#ffffff;border:1px solid #ffffff;">Узнать Больше →</div> </div> </div> </div> </div> </div> </div>
 
             </a>
           </div>
@@ -154,7 +154,7 @@ require_once ('requisites.php');
 
                   </div>
 
-                  <div class="t686__overlay t686__animation_slow" style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -o-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40));"></div> <div class="t686__textwrapper t686__animation_slow "> <div class="t686__textwrapper__content"> <div class="t686__inner-wrapper t686__inner-wrapper_animated-btn"> <div class="t686__title t-name t-name_md" field="li_title__1534857992915" style="">Витрин МАРКЕТ</div> <div class="t686__text t-descr t-descr_xxs" field="li_text__1534857992915" style="">Магазин профессиональной косметики от Витрин</div> </div> <div class="t686__button-container t686__button_show-hover"> <div class="t686__button-wrapper"> <div class="t686__submit t-btn t-btn_sm" style="color:#ffffff;border:1px solid #ffffff;">Узнать Больше →</div> </div> </div> </div> </div> </div> </div>
+                  <div class="t686__overlay t686__animation_slow" style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -o-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40));"></div> <div class="t686__textwrapper t686__animation_slow "> <div class="t686__textwrapper__content"> <div class="t686__inner-wrapper t686__inner-wrapper_animated-btn"> <div class="t686__title t-name t-name_md" field="li_title__1534857992915" style="">Витрин МАРКЕТ</div> <div class="t686__text t-descr t-descr_xxs" field="li_text__1534857992915" style="">Сотни разновидностей косметики всех колоритов и полутонов</div> </div> <div class="t686__button-container t686__button_show-hover"> <div class="t686__button-wrapper"> <div class="t686__submit t-btn t-btn_sm" style="color:#ffffff;border:1px solid #ffffff;">Узнать Больше →</div> </div> </div> </div> </div> </div> </div>
 
             </a>
           </div>
@@ -180,7 +180,7 @@ require_once ('requisites.php');
 
 
 
-    
+
 
 
 

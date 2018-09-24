@@ -1,9 +1,29 @@
 <div id="rec62123827" class="r t-rec t-rec_pt_15 t-screenmin-980px" style="padding-top:15px; " data-animationappear="off" data-record-type="802" data-screen-min="980px">
   <!-- t802 -->
-  <div class="t802"> <div class="t802__container t802__container_indent t802__container_clgap-10px" data-cols-in-line="5">
-      <div class="t802__col t802__col_20"> <a href="<?php echo $vk_name; ?>"><div class="t802__imgwrapper"> <div class="t802__hover-wrapper"> <div class="t802__hover-filter"></div><div class="t802__text t-text t-descr_xxs">@ms.mariakhramtsova: Наши визажисты доведут образ до совершенства 💎❤️⠀
+  <div class="t802">
+      <div class="t802__container t802__container_indent t802__container_clgap-10px" data-cols-in-line="5">
+      <div class="t802__col t802__col_20">
+          <a href="<?php echo $vk_name; ?>">
+              <div class="t802__imgwrapper">
+                  <div class="t802__hover-wrapper">
+                      <div class="t802__hover-filter">
+
+                      </div>
+                      <div class="t802__text t-text t-descr_xxs">@ms.mariakhramtsova: Наши визажисты доведут образ до совершенства 💎❤️⠀
                 ⠀
-                Запишитесь к нам сейчас по ...</div></div> <div class="t802__bgimg" style="background-image:url(./index/inst_001.jpg)"></div></div></a> </div> <div class="t802__col t802__col_20"> <a href="<?php echo $vk_name; ?>"><div class="t802__imgwrapper"> <div class="t802__hover-wrapper"> <div class="t802__hover-filter"></div><div class="t802__text t-text t-descr_xxs">@ms.mariakhramtsova: Помочь определиться вам со стилем могут мастера нашего салона, к которым можно записаться по телефону в ...</div></div>
+                Запишитесь к нам сейчас по ...
+                      </div>
+                  </div>
+                  <div class="t802__bgimg" style="background-image:url('./index/inst_001.jpg')">
+
+                  </div>
+              </div>
+          </a>
+      </div>
+          <div class="t802__col t802__col_20"> <a href="<?php echo $vk_name; ?>">
+                  <div class="t802__imgwrapper">
+                      <div class="t802__hover-wrapper">
+                          <div class="t802__hover-filter"></div><div class="t802__text t-text t-descr_xxs">@ms.mariakhramtsova: Помочь определиться вам со стилем могут мастера нашего салона, к которым можно записаться по телефону в ...</div></div>
                       <div class="t802__bgimg" style="background-image:url(./index/inst_002.jpg)"></div></div></a> </div> <div class="t802__col t802__col_20"> <a href="<?php echo $vk_name; ?>"><div class="t802__imgwrapper"> <div class="t802__hover-wrapper"> <div class="t802__hover-filter"></div><div class="t802__text t-text t-descr_xxs">@ms.mariakhramtsova: К нам приходят за качеством, а в последствии, становятся нашими друзьями❤️⠀⠀
                 ⠀
                 Запишитесь к нам сейчас по ...</div></div> <div class="t802__bgimg" style="background-image:url(./index/inst_004.jpg)"></div></div></a> </div> <div class="t802__col t802__col_20"> <a href="<?php echo $vk_name; ?>"><div class="t802__imgwrapper"> <div class="t802__hover-wrapper"> <div class="t802__hover-filter"></div><div class="t802__text t-text t-descr_xxs">@ms.mariakhramtsova: Подберите идеальную прическу и образ в Студия Витрин!⠀

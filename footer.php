@@ -14,7 +14,7 @@
                 Запишитесь к нам сейчас по ...
                       </div>
                   </div>
-                  <div class="t802__bgimg" style="background-image:url('./index/inst_001.jpg')">
+                  <div class="t802__bgimg" style="background-image:url(&quot;./index/inst_001.jpg&quot;)">
 
                   </div>
               </div>

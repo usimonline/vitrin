@@ -119,7 +119,7 @@
 
             <div class="son_outercircle"></div>
 
-            <a href="http://<?php echo $site_name; ?>/?utm_source=google&amp;utm_medium=cpc&amp;utm_term=%D0%B8%D0%BC%D0%B8%D0%B4%D0%B6%20%2B%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F%20%2B%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&amp;utm_campaign={campaign_id}#" onclick="showSonlineWidget(sonlineWidgetOptions);">
+            <a href="http://<?php echo $site_name; ?>/">
               <div class="son_circle"><br>Онлайн<br> запись
               </div>
             </a>

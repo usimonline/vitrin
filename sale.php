@@ -33,7 +33,7 @@ require_once ('requisites.php');
 
 
         <div class="t608__col t-col t-col_4">
-          <div class="t608__bgimg t-margin_auto t-bgimg loaded" data-image-width="360" data-image-height="240" bgimgfield="img" data-original="./index/sale_001.jpg" style="background-image: url(&quot;./index/sale_001.jpg&quot;); padding-bottom: 66.6667%;" src="">
+          <div class="t608__bgimg t-margin_auto t-bgimg loaded" data-image-width="240" data-image-height="240" bgimgfield="img" data-original="./index/sale_001.jpg" style="background-image: url(&quot;./index/sale_001.jpg&quot;); padding-bottom: 66.6667%;" src="">
 
           </div>
           <div class="t608__textwrapper t-align_center">
@@ -63,7 +63,7 @@ require_once ('requisites.php');
         </div>
 
         <div class="t608__col t-col t-col_4">
-          <div class="t608__bgimg t-margin_auto t-bgimg loaded" data-image-width="360" data-image-height="240" bgimgfield="img2" data-original="./index/sale_003.jpg" style="background-image: url(&quot;./index/sale_003.jpg&quot;); padding-bottom: 66.6667%;" src="">
+          <div class="t608__bgimg t-margin_auto t-bgimg loaded" data-image-width="240" data-image-height="240" bgimgfield="img2" data-original="./index/sale_003.jpg" style="background-image: url(&quot;./index/sale_003.jpg&quot;); padding-bottom: 66.6667%;" src="">
 
           </div>
           <div class="t608__textwrapper t-align_center">

@@ -174,7 +174,7 @@ require_once ('requisites.php');
       <div class="t-container">
         <div class="t-col t-col_6 t-prefix_3">
           <div class="t046__text t-text t-text_xs" style="" field="text"><div style="font-size:22px;color:#ffffff;" data-customstyle="yes">
-              <span style="font-weight: 700;">*-20% на все услуги красоты и продукцию<br>Скидка действует только на первое посещение
+              <span style="font-weight: 700;">*-5% на все услуги имидж-студии<br>Скидка действует только при онлайн-обращении.
               </span>
             </div>
           </div>

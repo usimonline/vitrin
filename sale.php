@@ -46,7 +46,8 @@ require_once ('requisites.php');
               к априкмахеру и получить уже ожидаемый результат. Просто покажи мастеру картинки своих стрижек.
               Компьютерный подбор включает в себя 10 моделей различных стрижек, укладок, цветов волос.<br>
             </div>
-            <a href="http://persona-ostozhenka.ru/sale#popup:new20" target="_blank" class="t608__btn t-btn t-btn_sm" style="color:#222222;border:1px solid #222222;border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px;"><table style="width:100%; height:100%;"><tbody><tr><td>Получить скидку!</td></tr></tbody></table>
+            <a href="http://<?php echo $site_name; ?>/<?php echo $sale_name; ?>#popup:new20" target="_blank" class="t608__btn t-btn t-btn_sm" style="color:#222222;border:1px solid #222222;border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px;">
+              <table style="width:100%; height:100%;"><tbody><tr><td>Узнать подробности!</td></tr></tbody></table>
             </a>
           </div>
         </div>
@@ -63,7 +64,8 @@ require_once ('requisites.php');
               Просто загрузки свою фотку и стилисты подберут палитру, которая подходит именно тебе.
               В палитре 42 оттенка, которые подойдут как для зимней, так и для летней одежды.
             </div>
-            <a href="http://persona-ostozhenka.ru/sale#Kday" target="" class="t608__btn t-btn t-btn_sm" style="color:#222222;border:1px solid #222222;border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px;"><table style="width:100%; height:100%;"><tbody><tr><td>Получить предложение!</td></tr></tbody></table>
+            <a href="http://<?php echo $site_name; ?>/<?php echo $sale_name; ?>#Kday" target="" class="t608__btn t-btn t-btn_sm" style="color:#222222;border:1px solid #222222;border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px;">
+              <table style="width:100%; height:100%;"><tbody><tr><td>Узнать подробности!</td></tr></tbody></table>
             </a>
           </div>
         </div>
@@ -77,7 +79,8 @@ require_once ('requisites.php');
             </div>
             <div class="t608__descr t-descr t-descr_xs" style="" field="descr2">Чат со стилистом. Просто загрузи свою фотографию и получи ответ. Длительность: 1 минута.
             </div>
-            <a href="http://persona-ostozhenka.ru/sale#Kday" target="" class="t608__btn t-btn t-btn_sm" style="color:#222222;border:1px solid #222222;border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px;"><table style="width:100%; height:100%;"><tbody><tr><td>Получить предложение!</td></tr></tbody></table>
+            <a href="http://<?php echo $site_name; ?>/<?php echo $sale_name; ?>#Kday" target="" class="t608__btn t-btn t-btn_sm" style="color:#222222;border:1px solid #222222;border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px;">
+              <table style="width:100%; height:100%;"><tbody><tr><td>Узнать подробности!</td></tr></tbody></table>
             </a>
           </div>
         </div>

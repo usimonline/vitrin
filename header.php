@@ -98,13 +98,194 @@
     }); $(window).load(function() { $(".t360__bar").removeClass("t360__barprogress"); $(".t360__bar").addClass("t360__barprogressfinished"); setTimeout(function(){ $(".t360__bar").addClass("t360__barprogresshidden"); },20); setTimeout(function(){ $(".t360__progress").hide(); },500); });</script>
 </div>
 
-<div id="rec62122727" class="r t-rec t-rec_pt_0 t-rec_pb_0 t-screenmin-980px" style="padding-top: 0px; padding-bottom: 0px; position: relative;" data-animationappear="off" data-record-type="734" data-screen-min="980px"><!-- t734 --><div class="t734 t796_cont-near-shape-divider" style="position: relative; z-index: 1;"> <div class="t-slds t734__leftaligned t734__witharrows" style=""> <div class="t-container_100 t-slds__main"> <div class="t-slds__container"> <div class="t-slds__items-wrapper t-slds_animated-none" data-slider-transition="300" data-slider-with-cycle="true" data-slider-correct-height="true" data-auto-correct-mobile-width="false" data-slider-initialized="true" data-slider-totalslides="3" data-slider-pos="1" data-slider-cycle="" data-slider-animated="" style="width: 6745px; transform: translate3d(-1349px, 0px, 0px); touch-action: pan-y; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); height: 346px;"> <div class="t-slds__item t-slds__item-loaded" data-slide-index="0" style="width: 1349px;"> <div class="t734__slds-wrapper t-slds__wrapper" style=""> <div class="t-cover__carrier loaded" data-content-cover-bg="https://static.tildacdn.com/tild3466-6431-4264-b263-356639656636/524e9fd2-a990-4431-b.png" style="background-image: url(&quot;https://static.tildacdn.com/tild3466-6431-4264-b263-356639656636/524e9fd2-a990-4431-b.png&quot;); height: 60vh;" src=""></div> <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); "></div> <div class="t734__table" style="height:60vh;"> <div class="t-cell t-valign_middle"> <div class="t-container"> <div class="t734__wrapper t-width t-width_8 t-margin_left"> <div class="t734__textwrapper t-align_left"> </div> </div> </div> </div> </div> </div> </div><div class="t-slds__item t-slds__item-loaded t-slds__item_active" data-slide-index="1" style="width: 1349px;"> <div class="t734__slds-wrapper t-slds__wrapper" style=""> <div class="t-cover__carrier loaded" data-content-cover-bg="https://static.tildacdn.com/tild3438-3536-4533-b966-303165323135/2E6A1011.jpg" style="background-image: url(&quot;https://static.tildacdn.com/tild3438-3536-4533-b966-303165323135/2E6A1011.jpg&quot;); height: 60vh;" src=""></div> <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); "></div> <div class="t734__table" style="height:60vh;"> <div class="t-cell t-valign_middle"> <div class="t-container"> <div class="t734__wrapper t-width t-width_8 t-margin_left"> <div class="t734__textwrapper t-align_left"> </div> </div> </div> </div> </div> </div> </div> <div class="t-slds__item t-slds__item-loaded" data-slide-index="2" style="width: 1349px;"> <div class="t734__slds-wrapper t-slds__wrapper" style=""> <div class="t-cover__carrier loaded" data-content-cover-bg="https://static.tildacdn.com/tild6662-3935-4661-b737-636235373330/cc2e90f9-087e-48e0-a.png" style="background-image: url(&quot;https://static.tildacdn.com/tild6662-3935-4661-b737-636235373330/cc2e90f9-087e-48e0-a.png&quot;); height: 60vh;" src=""></div> <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); "></div> <div class="t734__table" style="height:60vh;"> <div class="t-cell t-valign_middle"> <div class="t-container"> <div class="t734__wrapper t-width t-width_8 t-margin_left"> <div class="t734__textwrapper t-align_left"> </div> </div> </div> </div> </div> </div> </div> <div class="t-slds__item  t-slds__item-loaded" data-slide-index="3" style="width: 1349px;"> <div class="t734__slds-wrapper t-slds__wrapper" style=""> <div class="t-cover__carrier loaded" data-content-cover-bg="https://static.tildacdn.com/tild3466-6431-4264-b263-356639656636/524e9fd2-a990-4431-b.png" style="background-image: url(&quot;https://static.tildacdn.com/tild3466-6431-4264-b263-356639656636/524e9fd2-a990-4431-b.png&quot;); height: 60vh;" src=""></div> <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); "></div> <div class="t734__table" style="height:60vh;"> <div class="t-cell t-valign_middle"> <div class="t-container"> <div class="t734__wrapper t-width t-width_8 t-margin_left"> <div class="t734__textwrapper t-align_left"> </div> </div> </div> </div> </div> </div> </div><div class="t-slds__item" data-slide-index="4" style="width: 1349px;"> <div class="t734__slds-wrapper t-slds__wrapper" style=""> <div class="t-cover__carrier" data-content-cover-bg="https://static.tildacdn.com/tild3438-3536-4533-b966-303165323135/2E6A1011.jpg" style="background-image: url(&#39;https://static.tildacdn.com/tild3438-3536-4533-b966-303165323135/-/resize/20x/2E6A1011.jpg&#39;); height:60vh;"></div> <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); "></div> <div class="t734__table" style="height:60vh;"> <div class="t-cell t-valign_middle"> <div class="t-container"> <div class="t734__wrapper t-width t-width_8 t-margin_left"> <div class="t734__textwrapper t-align_left"> </div> </div> </div> </div> </div> </div> </div> </div> </div> <div class="t-slds__arrow_container "> <div class="t-slds__arrow_wrapper t-slds__arrow_wrapper-left" data-slide-direction="left" style="height: 346px;"> <div class="t-slds__arrow t-slds__arrow-left t-slds__arrow-withbg" style="width: 30px; height: 30px;background-color: rgba(255,255,255,1);"> <div class="t-slds__arrow_body t-slds__arrow_body-left" style="width: 7px;"> <svg style="display: block" viewBox="0 0 7.3 13" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> <desc>Left</desc> <polyline fill="none" stroke="#222222" stroke-linejoin="butt" stroke-linecap="butt" stroke-width="1" points="0.5,0.5 6.5,6.5 0.5,12.5"></polyline> </svg> </div> </div></div><div class="t-slds__arrow_wrapper t-slds__arrow_wrapper-right" data-slide-direction="right" style="height: 346px;"> <div class="t-slds__arrow t-slds__arrow-right t-slds__arrow-withbg" style="width: 30px; height: 30px;background-color: rgba(255,255,255,1);"> <div class="t-slds__arrow_body t-slds__arrow_body-right" style="width: 7px;"> <svg style="display: block" viewBox="0 0 7.3 13" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> <desc>Right</desc> <polyline fill="none" stroke="#222222" stroke-linejoin="butt" stroke-linecap="butt" stroke-width="1" points="0.5,0.5 6.5,6.5 0.5,12.5"></polyline> </svg> </div> </div></div> </div> <div class="t-slds__bullet_wrapper"> <div class="t-slds__bullet t-slds__bullet_active" data-slide-bullet-for="1"> <div class="t-slds__bullet_body" style="width: 10px; height: 10px;background-color: transparent;border: 2px solid #ffffff;"></div> </div> <div class="t-slds__bullet" data-slide-bullet-for="2"> <div class="t-slds__bullet_body" style="width: 10px; height: 10px;background-color: transparent;border: 2px solid #ffffff;"></div> </div> <div class="t-slds__bullet" data-slide-bullet-for="3"> <div class="t-slds__bullet_body" style="width: 10px; height: 10px;background-color: transparent;border: 2px solid #ffffff;"></div> </div> </div> </div> </div></div>
+<div id="rec62122727" class="r t-rec t-rec_pt_0 t-rec_pb_0 t-screenmin-980px" style="padding-top: 0px; padding-bottom: 0px; position: relative;" data-animationappear="off" data-record-type="734" data-screen-min="980px">
+  <!-- t734 -->
+  <div class="t734 t796_cont-near-shape-divider" style="position: relative; z-index: 1;">
+    <div class="t-slds t734__leftaligned t734__witharrows" style="">
+      <div class="t-container_100 t-slds__main"> <div class="t-slds__container">
+          <div class="t-slds__items-wrapper t-slds_animated-none" data-slider-transition="300" data-slider-with-cycle="true" data-slider-correct-height="true" data-auto-correct-mobile-width="false" data-slider-initialized="true" data-slider-totalslides="3" data-slider-pos="1" data-slider-cycle="" data-slider-animated="" style="width: 6745px; transform: translate3d(-1349px, 0px, 0px); touch-action: pan-y; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); height: 346px;">
+            <div class="t-slds__item t-slds__item-loaded" data-slide-index="0" style="width: 1349px;">
+              <div class="t734__slds-wrapper t-slds__wrapper" style="">
+                <div class="t-cover__carrier loaded" data-content-cover-bg="./index/11111.png" style="background-image: url(&quot;./index/11111.png&quot;); height: 60vh;" src="">
+
+                </div>
+                <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); ">
+
+                </div> <div class="t734__table" style="height:60vh;">
+                  <div class="t-cell t-valign_middle">
+                    <div class="t-container">
+                      <div class="t734__wrapper t-width t-width_8 t-margin_left">
+                        <div class="t734__textwrapper t-align_left">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="t-slds__item t-slds__item-loaded t-slds__item_active" data-slide-index="1" style="width: 1349px;">
+              <div class="t734__slds-wrapper t-slds__wrapper" style="">
+                <div class="t-cover__carrier loaded" data-content-cover-bg="./index/22222.jpg" style="background-image: url(&quot;./index/22222.jpg&quot;); height: 60vh;" src="">
+
+                </div>
+                <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); ">
+
+                </div>
+                <div class="t734__table" style="height:60vh;">
+                  <div class="t-cell t-valign_middle">
+                    <div class="t-container">
+                      <div class="t734__wrapper t-width t-width_8 t-margin_left">
+                        <div class="t734__textwrapper t-align_left">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="t-slds__item t-slds__item-loaded" data-slide-index="2" style="width: 1349px;">
+              <div class="t734__slds-wrapper t-slds__wrapper" style="">
+                <div class="t-cover__carrier loaded" data-content-cover-bg="./index/33333.png" style="background-image: url(&quot;./index/33333.png&quot;); height: 60vh;" src="">
+
+                </div>
+                <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); ">
+
+                </div>
+                <div class="t734__table" style="height:60vh;">
+                  <div class="t-cell t-valign_middle">
+                    <div class="t-container">
+                      <div class="t734__wrapper t-width t-width_8 t-margin_left">
+                        <div class="t734__textwrapper t-align_left">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="t-slds__item  t-slds__item-loaded" data-slide-index="3" style="width: 1349px;">
+              <div class="t734__slds-wrapper t-slds__wrapper" style="">
+                <div class="t-cover__carrier loaded" data-content-cover-bg="./index/11111.png" style="background-image: url(&quot;./index/11111.png&quot;); height: 60vh;" src="">
+
+                </div>
+                <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); ">
+
+                </div>
+                <div class="t734__table" style="height:60vh;">
+                  <div class="t-cell t-valign_middle">
+                    <div class="t-container">
+                      <div class="t734__wrapper t-width t-width_8 t-margin_left">
+                        <div class="t734__textwrapper t-align_left">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="t-slds__item" data-slide-index="4" style="width: 1349px;">
+              <div class="t734__slds-wrapper t-slds__wrapper" style="">
+                <div class="t-cover__carrier" data-content-cover-bg="./index/22222.jpg" style="background-image: url(&#39;./index/nechto_02.jpg&#39;); height:60vh;">
+
+                </div>
+                <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); ">
+
+                </div>
+                <div class="t734__table" style="height:60vh;">
+                  <div class="t-cell t-valign_middle">
+                    <div class="t-container">
+                      <div class="t734__wrapper t-width t-width_8 t-margin_left">
+                        <div class="t734__textwrapper t-align_left">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="t-slds__arrow_container ">
+          <div class="t-slds__arrow_wrapper t-slds__arrow_wrapper-left" data-slide-direction="left" style="height: 346px;">
+            <div class="t-slds__arrow t-slds__arrow-left t-slds__arrow-withbg" style="width: 30px; height: 30px;background-color: rgba(255,255,255,1);">
+              <div class="t-slds__arrow_body t-slds__arrow_body-left" style="width: 7px;">
+                <svg style="display: block" viewBox="0 0 7.3 13" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <desc>Left</desc>
+                  <polyline fill="none" stroke="#222222" stroke-linejoin="butt" stroke-linecap="butt" stroke-width="1" points="0.5,0.5 6.5,6.5 0.5,12.5">
+
+                  </polyline>
+                </svg>
+              </div>
+            </div>
+          </div>
+          <div class="t-slds__arrow_wrapper t-slds__arrow_wrapper-right" data-slide-direction="right" style="height: 346px;">
+            <div class="t-slds__arrow t-slds__arrow-right t-slds__arrow-withbg" style="width: 30px; height: 30px;background-color: rgba(255,255,255,1);">
+              <div class="t-slds__arrow_body t-slds__arrow_body-right" style="width: 7px;">
+                <svg style="display: block" viewBox="0 0 7.3 13" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <desc>Right</desc>
+                  <polyline fill="none" stroke="#222222" stroke-linejoin="butt" stroke-linecap="butt" stroke-width="1" points="0.5,0.5 6.5,6.5 0.5,12.5">
+
+                  </polyline>
+                </svg>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="t-slds__bullet_wrapper">
+          <div class="t-slds__bullet t-slds__bullet_active" data-slide-bullet-for="1">
+            <div class="t-slds__bullet_body" style="width: 10px; height: 10px;background-color: transparent;border: 2px solid #ffffff;">
+
+            </div>
+          </div>
+          <div class="t-slds__bullet" data-slide-bullet-for="2">
+            <div class="t-slds__bullet_body" style="width: 10px; height: 10px;background-color: transparent;border: 2px solid #ffffff;">
+
+            </div>
+          </div>
+          <div class="t-slds__bullet" data-slide-bullet-for="3">
+            <div class="t-slds__bullet_body" style="width: 10px; height: 10px;background-color: transparent;border: 2px solid #ffffff;">
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
 
-  <script type="text/javascript"> $(document).ready(function() { t_sldsInit('62122727'); }); $('.t734').bind('displayChanged',function(){ t_slds_updateSlider('62122727'); }); </script>
-  <style type="text/css"> #rec62122727 .t-slds__bullet_active .t-slds__bullet_body { background-color: #ffffff !important; } #rec62122727 .t-slds__bullet:hover .t-slds__bullet_body { background-color: #ffffff !important; }</style><div class="t796__shape-border t796__shape-border_bottom" data-fill-color="#ffffff" style="z-index: 1; display: block;"> <svg class="t796__svg" style="height:8vw;fill:#ffffff;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 200" preserveAspectRatio="none"> <path d="M1280 200H0V0l1280 195.5v4.5z"></path> </svg> </div>
+  <script type="text/javascript">
+    $(document).ready(function() { t_sldsInit('62122727'); });
+    $('.t734').bind('displayChanged',function(){ t_slds_updateSlider('62122727'); });
+  </script>
+
+  <style type="text/css">
+    #rec62122727 .t-slds__bullet_active .t-slds__bullet_body { background-color: #ffffff !important; }
+    #rec62122727 .t-slds__bullet:hover .t-slds__bullet_body { background-color: #ffffff !important; }
+  </style>
+
+  <div class="t796__shape-border t796__shape-border_bottom" data-fill-color="#ffffff" style="z-index: 1; display: block;">
+    <svg class="t796__svg" style="height:8vw;fill:#ffffff;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 200" preserveAspectRatio="none">
+      <path d="M1280 200H0V0l1280 195.5v4.5z"></path>
+    </svg>
+  </div>
 </div>
-<div id="rec62583002" class="r t-rec" style=" " data-animationappear="off" data-record-type="796"><!-- T796 --><div class="t796"> <div class="t796__shape-border t796__shape-border_bottom" data-fill-color="#ffffff"> <svg class="t796__svg" style="height:8vw;fill:#ffffff;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 200" preserveAspectRatio="none"> <path d="M1280 200H0V0l1280 195.5v4.5z"></path> </svg> </div> </div><script type="text/javascript"> $(document).ready(function() { t796_init('62583002'); });</script>
+
+<div id="rec62583002" class="r t-rec" style=" " data-animationappear="off" data-record-type="796">
+  <!-- T796 -->
+  <div class="t796">
+    <div class="t796__shape-border t796__shape-border_bottom" data-fill-color="#ffffff">
+      <svg class="t796__svg" style="height:8vw;fill:#ffffff;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 200" preserveAspectRatio="none">
+        <path d="M1280 200H0V0l1280 195.5v4.5z">
+
+        </path>
+      </svg>
+    </div>
+  </div>
+
+  <script type="text/javascript">
+    $(document).ready(function() { t796_init('62583002'); });
+  </script>
+
 </div>
 
 <div id="rec62559817" class="r t-rec t-rec_pt_0 t-rec_pb_0 t-screenmax-980px" style="padding-top: 0px; padding-bottom: 0px; position: relative;" data-animationappear="off" data-record-type="734" data-screen-max="980px"><!-- t734 -->

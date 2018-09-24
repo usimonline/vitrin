@@ -32,7 +32,7 @@
               </li>
               <li class="t770__list_item"><a class="t-menu__link-item" href="http://<?php echo $site_name; ?>/<?php echo $sale_name; ?>" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="2">Акции</a>
               </li>
-              <li class="t770__list_item"><a class="t-menu__link-item" href="http://<?php echo $site_name; ?>/<?php echo $team_name; ?>" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="3">Мастера</a>
+              <li class="t770__list_item"><a class="t-menu__link-item" href="http://<?php echo $site_name; ?>/<?php echo $team_name; ?>" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="3">Команда</a>
               </li>
               <li class="t770__list_item"><a class="t-menu__link-item" href="http://<?php echo $site_name; ?>/#rec60130970" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="4">Контакты
                 </a>
@@ -44,7 +44,7 @@
               <li class="t770__list_item"><a class="t-menu__link-item" href="#rec64320842" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="1" data-tooltip-menu-id="64330707">Услуги</a>
               </li>
               <li class="t770__list_item"><a class="t-menu__link-item" href="http://<?php echo $site_name; ?>/<?php echo $sale_name; ?>" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="2">Акции</a></li>
-              <li class="t770__list_item"><a class="t-menu__link-item" href="http://<?php echo $site_name; ?>/<?php echo $team_name; ?>" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="3">Мастера</a></li> <li class="t770__list_item"><a class="t-menu__link-item" href="http://<?php echo $site_name; ?>/#rec60130970" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="4">Контакты</a></li> </ul></div></div></div></div>
+              <li class="t770__list_item"><a class="t-menu__link-item" href="http://<?php echo $site_name; ?>/<?php echo $team_name; ?>" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="3">Команда</a></li> <li class="t770__list_item"><a class="t-menu__link-item" href="http://<?php echo $site_name; ?>/#rec60130970" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="4">Контакты</a></li> </ul></div></div></div></div>
 
 
 
@@ -73,7 +73,7 @@
           </a></div>
 
         <div class="t466__item t466__menu">
-          <a class="t-name t-descr_xxs t-menu__link-item" href="http://<?php echo $site_name; ?>/<?php echo $team_name; ?>" style="color:#ffffff;" data-menu-item-number="3">МАСТЕРА</a>
+          <a class="t-name t-descr_xxs t-menu__link-item" href="http://<?php echo $site_name; ?>/<?php echo $team_name; ?>" style="color:#ffffff;" data-menu-item-number="3">Команда</a>
         </div>
 
         <div class="t466__item t466__menu"><a class="t-name t-descr_xxs t-menu__link-item" href="http://<?php echo $site_name; ?>/<?php echo $sale_name; ?>" style="color:#ffffff;" data-menu-item-number="4">АКЦИИ</a></div> <div class="t466__burger t466__small"> <div class="t466__burger_wrapper"> <span style="background-color:#ffffff;"></span> <span style="background-color:#ffffff;"></span> <span style="background-color:#ffffff;"></span> <span style="background-color:#ffffff;"></span> </div> </div> </div> <div class="t466__mobile"> <div class="t466__container"> <div class="t466__container__bg" style="background-color: rgba(0,0,0,1); " data-bgcolor-hex="#000000" data-bgcolor-rgba="rgba(0,0,0,1)" data-bgopacity="1" data-menu-shadow="0px 1px 3px rgba(0,0,0,0.)"></div> <div class="t466__item t466__menu"><a class="t-name t-descr_xxs" href="http://<?php echo $site_name; ?>" style="color:#ffffff;" data-menu-item-number="1">ГЛАВНАЯ</a></div>
@@ -86,7 +86,7 @@
 
 
           <div class="t466__item t466__menu">
-            <a class="t-name t-descr_xxs" href="http://<?php echo $site_name; ?>/<?php echo $team_name; ?>" style="color:#ffffff;" data-menu-item-number="3">МАСТЕРА</a></div>
+            <a class="t-name t-descr_xxs" href="http://<?php echo $site_name; ?>/<?php echo $team_name; ?>" style="color:#ffffff;" data-menu-item-number="3">Команда</a></div>
 
           <div class="t466__item t466__menu"><a class="t-name t-descr_xxs" href="http://<?php echo $site_name; ?>/<?php echo $sale_name; ?>" style="color:#ffffff;" data-menu-item-number="4">АКЦИИ</a></div> </div> </div></div> <script type="text/javascript"> $(document).ready(function() { t466_initMobileMenu('60130952'); $("#rec60130952").attr('data-animationappear','off'); $("#rec60130952").css('opacity','1'); }); $(document).ready(function() { t466_highlight(); t466_checkAnchorLinks('60130952'); }); $(document).ready(function() { t466_appearMenu('60130952'); $(window).bind('scroll', t_throttle(function(){t466_appearMenu('60130952')}, 200)); }); </script>
   </div>

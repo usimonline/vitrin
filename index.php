@@ -31,7 +31,7 @@ require_once ('requisites.php');
       <div class="t686__container t-container">
         <div class="t686__row">
           <div class="t686__col t-col t-col_3 t-align_left ">
-            <a class="t686__link" href="http://<?php echo $site_name; ?>/forwomen" target="">
+            <a class="t686__link" href="http://<?php echo $site_name; ?>/<?php echo $persimage_name; ?>" target="">
               <div class="t686__table" style="height: 400px; min-height: auto;">
                 <div class="t686__cell t-align_left t-valign_middle">
                   <div class="t686__bg t686__animation_slow t686__bg_animated t-bgimg loaded" bgimgfield="li_img__1494497749748" data-original="./index/uslugi_111.png" style="background-image: url(&quot;./index/uslugi_111.png&quot;);" src="">
@@ -60,7 +60,7 @@ require_once ('requisites.php');
             </a>
           </div>
           <div class="t686__col t-col t-col_3 t-align_left ">
-            <a class="t686__link" href="http://<?php echo $site_name; ?>/colorbar" target=""> <div class="t686__table" style="height: 400px; min-height: auto;"> <div class="t686__cell t-align_left t-valign_middle">
+            <a class="t686__link" href="http://<?php echo $site_name; ?>/<?php echo $school_name; ?>" target=""> <div class="t686__table" style="height: 400px; min-height: auto;"> <div class="t686__cell t-align_left t-valign_middle">
 
                   <div class="t686__bg t686__animation_slow t686__bg_animated t-bgimg loaded" bgimgfield="li_img__1534857710352" data-original="./index/uslugi_222.jpg" style="background-image: url(&quot;./index/uslugi_222.jpg&quot;);" src="">
 
@@ -90,7 +90,7 @@ require_once ('requisites.php');
             </a>
           </div>
           <div class="t686__col t-col t-col_3 t-align_left ">
-            <a class="t686__link" href="http://<?php echo $site_name; ?>/formen" target="">
+            <a class="t686__link" href="http://<?php echo $site_name; ?>/<?php echo $course_name; ?>" target="">
               <div class="t686__table" style="height: 400px; min-height: auto;"> <div class="t686__cell t-align_left t-valign_middle">
 
                   <div class="t686__bg t686__animation_slow t686__bg_animated t-bgimg loaded" bgimgfield="li_img__1532087963668" data-original="./index/uslugi_333.png" style="background-image: url(&quot;./index/uslugi_333.png&quot;);" src="">
@@ -101,7 +101,7 @@ require_once ('requisites.php');
             </a>
           </div>
           <div class="t686__col t-col t-col_3 t-align_left ">
-            <a class="t686__link" href="http://<?php echo $site_name; ?>/makeup" target="">
+            <a class="t686__link" href="http://<?php echo $site_name; ?>/<?php echo $shoping_name; ?>" target="">
               <div class="t686__table" style="height: 400px; min-height: auto;"> <div class="t686__cell t-align_left t-valign_middle">
 
                   <div class="t686__bg t686__animation_slow t686__bg_animated t-bgimg loaded" bgimgfield="li_img__1532530386698" data-original="./index/uslugi_444.png" style="background-image: url(&quot;./index/uslugi_444.png&quot;);" src="">
@@ -120,7 +120,7 @@ require_once ('requisites.php');
         </div>
         <div class="t686__row"> <div class="t686__col t-col t-col_3 t-align_left ">
 
-            <a class="t686__link" href="http://<?php echo $site_name; ?>/browlashbar" target="">
+            <a class="t686__link" href="http://<?php echo $site_name; ?>/<?php echo $escort_name; ?>" target="">
               <div class="t686__table" style="height: 400px; min-height: auto;"> <div class="t686__cell t-align_left t-valign_middle">
 
                   <div class="t686__bg t686__animation_slow t686__bg_animated t-bgimg loaded" bgimgfield="li_img__1534857783554" data-original="./index/uslugi_555.jpg" style="background-image: url(&quot;./index/uslugi_555.jpg&quot;);" src="">
@@ -134,7 +134,7 @@ require_once ('requisites.php');
 
           <div class="t686__col t-col t-col_3 t-align_left ">
 
-            <a class="t686__link" href="http://<?php echo $site_name; ?>/nail" target="">
+            <a class="t686__link" href="http://<?php echo $site_name; ?>/<?php echo $analysis_name; ?>" target="">
 
               <div class="t686__table" style="height: 400px; min-height: auto;"> <div class="t686__cell t-align_left t-valign_middle">
 
@@ -148,7 +148,7 @@ require_once ('requisites.php');
           </div>
 
           <div class="t686__col t-col t-col_3 t-align_left ">
-            <a class="t686__link" href="http://persona.market/" target=""> <div class="t686__table" style="height: 400px; min-height: auto;">
+            <a class="t686__link" href="http://<?php echo $site_name; ?>/<?php echo $analysis_name; ?>" target=""> <div class="t686__table" style="height: 400px; min-height: auto;">
 
                 <div class="t686__cell t-align_left t-valign_middle"> <div class="t686__bg t686__animation_slow t686__bg_animated t-bgimg loaded" bgimgfield="li_img__1534857992915" data-original="./index/uslugi_777.jpeg" style="background-image: url(&quot;./index/uslugi_777.jpeg&quot;);" src="">
 

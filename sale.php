@@ -37,11 +37,14 @@ require_once ('requisites.php');
 
           </div>
           <div class="t608__textwrapper t-align_center">
-            <div class="t608__title t-heading t-heading_xs" style="" field="title">-20% на все!</div> <div class="t608__price t-name t-name_md" style="" field="price"><div style="font-size:20px;" data-customstyle="yes">
+            <div class="t608__title t-heading t-heading_xs" style="" field="title">Компьютерный подбор прически</div> <div class="t608__price t-name t-name_md" style="" field="price"><div style="font-size:20px;" data-customstyle="yes">
 
               </div>
             </div>
-            <div class="t608__descr t-descr t-descr_xs" style="" field="descr">Мы очень лояльно относимся к новым клиентам, поэтому предлагаем специальные условия на первый визит в наш салон<br>
+            <div class="t608__descr t-descr t-descr_xs" style="" field="descr">Загрузки свои фотографии и стилисты подберут для тебя модели стрижки, которые подходят именно тебе.
+              Вместе с картинками ты также сможешь найти детальное описание и советы. Благодаря компьютерному подбору прически ты можешь записаться на стрижку
+              к априкмахеру и получить уже ожидаемый результат. Просто покажи мастеру картинки своих стрижек.
+              Компьютерный подбор включает в себя 10 моделей различных стрижек, укладок, цветов волос.<br>
             </div>
             <a href="http://persona-ostozhenka.ru/sale#popup:new20" target="_blank" class="t608__btn t-btn t-btn_sm" style="color:#222222;border:1px solid #222222;border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px;"><table style="width:100%; height:100%;"><tbody><tr><td>Получить скидку!</td></tr></tbody></table>
             </a>
@@ -53,9 +56,12 @@ require_once ('requisites.php');
 
           </div>
           <div class="t608__textwrapper t-align_center">
-            <div class="t608__title t-heading t-heading_xs" style="" field="title2">Клиентский день!
+            <div class="t608__title t-heading t-heading_xs" style="" field="title2">Цветовая палитра для одежды
             </div>
-            <div class="t608__descr t-descr t-descr_xs" style="" field="descr2">-20% на все услуги красоты и профессиональную косметику, а также фуршет и атмосфера праздника!
+            <div class="t608__descr t-descr t-descr_xs" style="" field="descr2">Электронная цветовая палитра для смартфонов.
+              Благодаря высокому разрешению картинки, вы получите крачочные изображения своих цветов, которые подходят именно тебе.
+              Просто загрузки свою фотку и стилисты подберут палитру, которая подходит именно тебе.
+              В палитре 42 оттенка, которые подойдут как для зимней, так и для летней одежды.
             </div>
             <a href="http://persona-ostozhenka.ru/sale#Kday" target="" class="t608__btn t-btn t-btn_sm" style="color:#222222;border:1px solid #222222;border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px;"><table style="width:100%; height:100%;"><tbody><tr><td>Получить предложение!</td></tr></tbody></table>
             </a>
@@ -67,9 +73,9 @@ require_once ('requisites.php');
 
           </div>
           <div class="t608__textwrapper t-align_center">
-            <div class="t608__title t-heading t-heading_xs" style="" field="title2">Клиентский день!
+            <div class="t608__title t-heading t-heading_xs" style="" field="title2">Задай вопрос стилисту онлайн
             </div>
-            <div class="t608__descr t-descr t-descr_xs" style="" field="descr2">-20% на все услуги красоты и профессиональную косметику, а также фуршет и атмосфера праздника!
+            <div class="t608__descr t-descr t-descr_xs" style="" field="descr2">Чат со стилистом. Просто загрузи свою фотографию и получи ответ. Длительность: 1 минута.
             </div>
             <a href="http://persona-ostozhenka.ru/sale#Kday" target="" class="t608__btn t-btn t-btn_sm" style="color:#222222;border:1px solid #222222;border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px;"><table style="width:100%; height:100%;"><tbody><tr><td>Получить предложение!</td></tr></tbody></table>
             </a>

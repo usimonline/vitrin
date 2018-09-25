@@ -1,6 +1,6 @@
 <?php
 
-$site_name = 'vitrin.16mb.com';
+$site_name = 'imagemaker.by';
 $company_name = 'ImageMaker';
 $vk_name = 'https://vk.com/maria.khramtsova';
 

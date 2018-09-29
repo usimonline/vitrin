@@ -42,7 +42,7 @@ else require_once("page.php");
   </div>
 </div>
 
-<script type="text/javascript" src="./index/json.txt">
+<script type="text/javascript" src="<?php echo $main_name; ?>/index/json.txt">
 
 </script>
 

@@ -27,7 +27,7 @@
 						<a class="t686__link" href="<?php echo $main_name; ?><?php echo $news_latest[$count]['url']; ?>" target="">
 							<div class="t686__table" style="height: 400px; min-height: auto;">
 								<div class="t686__cell t-align_left t-valign_middle">
-									<div class="t686__bg t686__animation_slow t686__bg_animated t-bgimg loaded" bgimgfield="li_img__1494497749748" data-original="<?php echo './picture'.$news_latest[$count]['url'].'img_1'; ?>"
+									<div class="t686__bg t686__animation_slow t686__bg_animated t-bgimg loaded" bgimgfield="li_img__1494497749748" data-original="<?php echo '<?php echo $main_name; ?>/picture'.$news_latest[$count]['url'].'img_1'; ?>"
 										 style="background-image: url(&quot;<?php echo './picture'.$news_latest[$count]['url'].'img_1'; ?>&quot;);" src="">
 
 									</div>

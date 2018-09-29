@@ -55,18 +55,7 @@
 						</a>
 
 
-						<?php if ($admin): ?>
-							<form method="POST" enctype="multipart/form-data" action="<?php echo $main_name; ?>/admin/<?php echo $keys_value; ?>/<?php echo ($nomer_url - $nomer_url%50); ?>/">
-                <textarea style="visibility: hidden;" name="datetime_re"
-						  type="text" ><?php echo $news_latest[$count]['datetime']; ?></textarea>
-								<input style="width:200px; height:50px; border: 1px solid #cccccc;" type="submit" value="Изменить"/>
-							</form>
-							<form method="POST" enctype="multipart/form-data" action="<?php echo $main_name; ?>/admin/<?php echo $keys_value; ?>/<?php echo ($nomer_url - $nomer_url%50 ); ?>/">
-                <textarea style="visibility: hidden;" name="datetime_del"
-						  type="text" ><?php echo $news_latest[$count]['datetime']; ?></textarea>
-								<input style="width:200px; height:50px; border: 1px solid #cccccc;" type="submit" value="Удалить"/>
-							</form>
-						<?php endif; ?>
+						
 
 					</div>
 

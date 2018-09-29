@@ -5,7 +5,7 @@ require_once("functions.php"); //бесполезная часть
 require_once("requisites.php");
 require_once("base.php");//просто база данных
 require_once("route.php");
-//if (!$route) require_once("login_users.php");
+if (!$route) require_once("login_users.php");
 
 
 ?>
@@ -26,7 +26,7 @@ require_once("route.php");
 
 <body class="t-body" style="margin: 0px;">
 <?php
-//if ($admin) require_once("admin.php");
+if ($admin) require_once("admin.php");
 
 if ($route) require_once("l-main.php");
 else require_once("page.php");

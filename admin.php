@@ -15,8 +15,7 @@ if (!empty($_POST['teme'])){
 	$day = $datetime_mass_2[2];
     $comments = 0;
 	$teme = $_POST["teme"];
-	$url_temp = $_POST["url"];
-	$url = '/'.$url_temp.'/';
+	$url = $_POST["url"];
 	//if ($_POST["chpu_url_switch"] == 1 ) $url = $url.translate_into_english($_POST['teme']).'/';
 	$description = $_POST["description"];
 	$razdel = $_POST["razdel"];
@@ -164,7 +163,7 @@ $teme_int = $_POST["teme_int"];
 	//$url_mass = explode ( '/', $url);
 	//if (!empty($url_mass[6])) $chpu_url ="/".$url_mass[6];
 	//else $url_mass[6] = '';
-	$url_pic = "picture/".$url_temp;
+	$url_pic = "picture/".$url;
 	//@mkdir("pictures/".$url_mass[2], 0755);
 	//@mkdir("pictures/".$url_mass[2]."/".$url_mass[3], 0755);
 	//@mkdir("pictures/".$url_mass[2]."/".$url_mass[3]."/".$url_mass[4], 0755);

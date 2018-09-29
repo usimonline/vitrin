@@ -58,7 +58,7 @@ if (!empty($_POST['teme'])){
 		$pic_alt_9,
 		$pic_alt_10
 	);
-	$text = transform_img($text,$url,$pic_alt);
+	$text = transform_img($text,$url,$pic_alt,$site_url);
 	$keys = $_POST["keys"];
 $url_ext = $_POST["url_ext"];
 $url_frame = $_POST["url_frame"];

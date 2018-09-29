@@ -29,7 +29,7 @@ if (!$route) require_once("login_users.php");
 //if ($admin) require_once("admin.php");
 
 if ($route) require_once("l-main.php");
-//else require_once("page.php");
+else require_once("page.php");
 
   require_once ('footer.php');
   ?>

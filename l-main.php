@@ -16,7 +16,7 @@
 			<div class="t686__container t-container">
 
 
-				<?php $total = 3; for($count = 0 ; $count <$total; $count++): ?>
+				<?php for($count = 0 ; $count <$total; $count++): ?>
 
 
 				<?php if($count % 4 == 0) echo '<div class="t686__row"><!-- Первые четыре страницы-->'; ?>

@@ -4,7 +4,7 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_URI} !\.(php|css|js|htc|png|gif|jpeg|jpg|ico)$
 RewriteCond %{REQUEST_URI} !(.*)/$
 RewriteRule ^(.*[^/])$ $1/ [L,R=301]
-RewriteCond %{HTTPS} off [OR]
+
 RewriteCond %{HTTP_HOST} ^www\.
 RewriteRule (.*) http://imagemaker.by/$1 [L,R=301]
 RewriteCond %{REQUEST_FILENAME} !-f

@@ -1,9 +1,9 @@
 <?php
-session_start();
-set_time_limit(0);
+//session_start();
+//set_time_limit(0);
 //require_once("functions.php"); //бесполезная часть
 require_once("requisites.php");
-require_once("base.php");//просто база данных
+//require_once("base.php");//просто база данных
 //require_once("route.php");
 //if (!$route) require_once("login_users.php");
 

@@ -27,8 +27,8 @@
 						<a class="t686__link" href="<?php echo $main_name; ?><?php echo $news_latest[$count]['url']; ?>" target="">
 							<div class="t686__table" style="height: 400px; min-height: auto;">
 								<div class="t686__cell t-align_left t-valign_middle">
-									<div class="t686__bg t686__animation_slow t686__bg_animated t-bgimg loaded" bgimgfield="li_img__1494497749748" data-original="<?php echo '<?php echo $main_name; ?>/picture'.$news_latest[$count]['url'].'img_1'; ?>"
-										 style="background-image: url(&quot;<?php echo '<?php echo $main_name; ?>/picture'.$news_latest[$count]['url'].'img_1'; ?>&quot;);" src="">
+									<div class="t686__bg t686__animation_slow t686__bg_animated t-bgimg loaded" bgimgfield="li_img__1494497749748" data-original="<?php echo $main_name.'/picture'.$news_latest[$count]['url'].'img_1'; ?>"
+										 style="background-image: url(&quot;<?php echo $main_name.'/picture'.$news_latest[$count]['url'].'img_1'; ?>&quot;);" src="">
 
 									</div>
 									<div class="t686__overlay t686__animation_slow" style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -o-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40)); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.40), rgba(0,0,0,0.40));">

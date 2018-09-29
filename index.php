@@ -4,7 +4,7 @@ set_time_limit(0);
 //require_once("functions.php"); //бесполезная часть
 require_once("requisites.php");
 require_once("base.php");//просто база данных
-//require_once("route.php");
+require_once("route.php");
 //if (!$route) require_once("login_users.php");
 
 
@@ -28,7 +28,7 @@ require_once("base.php");//просто база данных
 <?php
 //if ($admin) require_once("admin.php");
 
-//if ($route) require_once("l-main.php");
+if ($route) require_once("l-main.php");
 //else require_once("page.php");
 
   require_once ('footer.php');

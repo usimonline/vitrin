@@ -70,7 +70,7 @@ function transform_img($string,$url,$pic_alt) {
 	//$first=array('bestmemes','helpstud','caricatures','belnews','coldwar','polithumor','ancientukri','economy','history','agents');
 	//$url = str_replace($first, 'pictures', $url);
 	//$url = str_replace('news', 'pictures', $url);
-	$first = '<figure class="article__video"><div class="article__video-container"><img src="'.$site_url.'picture'.$url.'img_';
+	$first = '<figure class="article__video"><div class="article__video-container"><img src="./picture'.$url.'img_';
 	$second = '" alt="';
 	$third = '" /></div><figcaption>';
 	$fourth = '</figcaption></figure><p></p>';

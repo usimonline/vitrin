@@ -71,7 +71,7 @@ function transform_img($string,$url,$pic_alt) {
 	$url = str_replace($first, 'pictures', $url);
 	$url = str_replace('news', 'pictures', $url);
 	$first = '<figure class="article__video"><div class="article__video-container"><img src="'.$url.'img_';
-	$second = '.jpg" alt="';
+	$second = '" alt="';
 	$third = '" /></div><figcaption>';
 	$fourth = '</figcaption></figure><p></p>';
 	if (!empty($pic_alt[2])) $string = str_replace("<img_2img>", $first.'2'.$second.$pic_alt[2].$third.$pic_alt[2].$fourth, $string);

@@ -15,8 +15,9 @@ if (!empty($_POST['teme'])){
 	$day = $datetime_mass_2[2];
     $comments = 0;
 	$teme = $_POST["teme"];
-	$url = $_POST["url"];
-	if ($_POST["chpu_url_switch"] == 1 ) $url = $url.translate_into_english($_POST['teme']).'/';
+	$url_temp = $_POST["url"];
+	$url = '/'.$url_temp.'/';
+	//if ($_POST["chpu_url_switch"] == 1 ) $url = $url.translate_into_english($_POST['teme']).'/';
 	$description = $_POST["description"];
 	$razdel = $_POST["razdel"];
 
@@ -160,14 +161,14 @@ $teme_int = $_POST["teme_int"];
 	}
 
     // Проверяем загружен ли файл
-	$url_mass = explode ( '/', $url);
-	if (!empty($url_mass[6])) $chpu_url ="/".$url_mass[6];
-	else $url_mass[6] = '';
-	$url_pic = "pictures/".$url_mass[2]."/".$url_mass[3]."/".$url_mass[4]."/".$url_mass[5].$chpu_url;
-	@mkdir("pictures/".$url_mass[2], 0755);
-	@mkdir("pictures/".$url_mass[2]."/".$url_mass[3], 0755);
-	@mkdir("pictures/".$url_mass[2]."/".$url_mass[3]."/".$url_mass[4], 0755);
-	@mkdir("pictures/".$url_mass[2]."/".$url_mass[3]."/".$url_mass[4]."/".$id, 0755);
+	//$url_mass = explode ( '/', $url);
+	//if (!empty($url_mass[6])) $chpu_url ="/".$url_mass[6];
+	//else $url_mass[6] = '';
+	$url_pic = "picture/".$url_temp;
+	//@mkdir("pictures/".$url_mass[2], 0755);
+	//@mkdir("pictures/".$url_mass[2]."/".$url_mass[3], 0755);
+	//@mkdir("pictures/".$url_mass[2]."/".$url_mass[3]."/".$url_mass[4], 0755);
+	//@mkdir("pictures/".$url_mass[2]."/".$url_mass[3]."/".$url_mass[4]."/".$id, 0755);
 	@mkdir($url_pic, 0755);
     if(is_uploaded_file($_FILES["filename"]["tmp_name"]))
     {
@@ -175,50 +176,53 @@ $teme_int = $_POST["teme_int"];
     // из временной директории в конечную
 	// Создаем папки
 
-    move_uploaded_file($_FILES["filename"]["tmp_name"], $url_pic."/img_1.jpg");
-		$filename_sq = $url_pic."/";
-		$filename1_sq = $filename_sq.'img_1.jpg';
+			move_uploaded_file($_FILES["filename"]["tmp_name"], $url_pic."/img_1");
+
+   // move_uploaded_file($_FILES["filename"]["tmp_name"], $url_pic."/img_1");
+		//$filename_sq = $url_pic."/";
+		//$filename1_sq = $filename_sq.'img_1.jpg';
 		//echo $filename1;
-		$filename2_sq = $filename_sq.'img_1_2.jpg';
+		//$filename2_sq = $filename_sq.'img_1_2.jpg';
 		//echo $filename2;
-		$image_smoll_sq =  imagecreatefromjpeg($filename1_sq);
-		imagejpeg($image_smoll_sq, $filename2_sq, 10);
+		//$image_smoll_sq =  imagecreatefromjpeg($filename1_sq);
+		//imagejpeg($image_smoll_sq, $filename2_sq, 10);
     } //else echo "хуйхуйхуйхуйхуйхуйхуйхуйхуй!!!";
+
 	if(is_uploaded_file($_FILES["filename_2"]["tmp_name"]))
 	{
-		move_uploaded_file($_FILES["filename_2"]["tmp_name"], $url_pic."/img_2.jpg");
+		move_uploaded_file($_FILES["filename_2"]["tmp_name"], $url_pic."/img_2");
 	}
 	if(is_uploaded_file($_FILES["filename_3"]["tmp_name"]))
 	{
-		move_uploaded_file($_FILES["filename_3"]["tmp_name"], $url_pic."/img_3.jpg");
+		move_uploaded_file($_FILES["filename_3"]["tmp_name"], $url_pic."/img_3");
 	}
 	if(is_uploaded_file($_FILES["filename_4"]["tmp_name"]))
 	{
-		move_uploaded_file($_FILES["filename_4"]["tmp_name"], $url_pic."/img_4.jpg");
+		move_uploaded_file($_FILES["filename_4"]["tmp_name"], $url_pic."/img_4");
 	}
 	if(is_uploaded_file($_FILES["filename_5"]["tmp_name"]))
 	{
-		move_uploaded_file($_FILES["filename_5"]["tmp_name"], $url_pic."/img_5.jpg");
+		move_uploaded_file($_FILES["filename_5"]["tmp_name"], $url_pic."/img_5");
 	}
 	if(is_uploaded_file($_FILES["filename_6"]["tmp_name"]))
 	{
-		move_uploaded_file($_FILES["filename_6"]["tmp_name"], $url_pic."/img_6.jpg");
+		move_uploaded_file($_FILES["filename_6"]["tmp_name"], $url_pic."/img_6");
 	}
 	if(is_uploaded_file($_FILES["filename_7"]["tmp_name"]))
 	{
-		move_uploaded_file($_FILES["filename_7"]["tmp_name"], $url_pic."/img_7.jpg");
+		move_uploaded_file($_FILES["filename_7"]["tmp_name"], $url_pic."/img_7");
 	}
 	if(is_uploaded_file($_FILES["filename_8"]["tmp_name"]))
 	{
-		move_uploaded_file($_FILES["filename_8"]["tmp_name"], $url_pic."/img_8.jpg");
+		move_uploaded_file($_FILES["filename_8"]["tmp_name"], $url_pic."/img_8");
 	}
 	if(is_uploaded_file($_FILES["filename_9"]["tmp_name"]))
 	{
-		move_uploaded_file($_FILES["filename_9"]["tmp_name"], $url_pic."/img_9.jpg");
+		move_uploaded_file($_FILES["filename_9"]["tmp_name"], $url_pic."/img_9");
 	}
 	if(is_uploaded_file($_FILES["filename_10"]["tmp_name"]))
 	{
-		move_uploaded_file($_FILES["filename_10"]["tmp_name"], $url_pic."/img_10.jpg");
+		move_uploaded_file($_FILES["filename_10"]["tmp_name"], $url_pic."/img_10");
 	}
 }
 //if(@$_POST["post_vk"] == 1) require_once('vk.php');
@@ -276,25 +280,24 @@ $res = mysqli_query($link, $select);
 	$year = $datetime_mass_2[0];
 	$month = $datetime_mass_2[1];
 	$day = $datetime_mass_2[2];
-    $url = '/news/'.$year.'/'.$month.'/'.$day.'/'.$id.'/';
+    $url = 'vvedite_url_stranici';
 	$chpu_url_switch = 1;
     $comments = 0;
 	$teme = 'Тема';
 	$description = 'Описание';
-	$razdel = '';
-	$text = 'Ранее мы сообщали, что &lt;a target="_blank" href="\news\...\"&gt;&lt;/a&gt;';
-	$keys = 'НОВОСТИ БЕЛАРУСИ, ХОЛОДНАЯ ВОЙНА, УКРАИНА, ПОЛИТИЧЕСКИЙ ЮМОР, ЭКОНОМИКА, ИСТОРИЯ, МЕМЫ, КАРИКАТУРЫ, СТУДЕНТЫ, 
-	СИРИЯ, ПОЛЬША, НОВОРОССИЯ, ПРИБАЛТИКА, АРМИЯ, РЕЛИГИЯ, НАУКА, АГЕНТЫ ЗАПАДА';
-	$url_ext = 'https://by-by.info/news';
-	$url_frame = '';
-	$url_int = '/news';
-	$teme_int = 'Другие новости по этой теме.';
+	$razdel = 'Не используется';
+	$text = 'Здесь текст страницы';
+	$keys = 'Ключи страницы';
+	$url_ext = 'Не используется';
+	$url_frame = 'Не используется';
+	$url_int = 'Не используется';
+	$teme_int = 'Не используется';
 	$post_vk = 1;
 	$text_re = 0;
 }
 ?>
 
-<h1>Панель администратора для добавления статей</h1>
+<h1>Панель добавления страниц</h1>
 <form method="POST" enctype="multipart/form-data" action="<?php echo $main_name; ?>/admin/<?php echo $keys_value; ?>/<?php echo $nomer_url; ?>/">
         <textarea style="width:500px; height:50px; border: 1px solid #cccccc;" name="teme" type="text" ><?php echo $teme; ?></textarea><br>
 		<textarea style="width:600px; height:50px; border: 1px solid #cccccc;" 
@@ -316,7 +319,7 @@ echo '&lt;/p&gt;&lt;h2&gt;&lt;/h2&gt;&lt;p&gt;';?><br>
 		<input type="hidden" name="chpu_url_switch" value="<?php echo $chpu_url_switch; ?>">
 		
 		<select style="width:300px; height:30px; border: 1px solid #cccccc;" name="razdel" type="text">
-  <option <?php if ($razdel == 'news_latest') echo "selected"; ?> value="news_latest">Обычные новости</option>
+  <option <?php if ($razdel == 'news_latest') echo "selected"; ?> value="news_latest">Обычный текст</option>
   <option <?php if ($razdel == 'header') echo "selected"; ?> value="header">Шапка (3)</option>
    <option <?php if ($razdel == 'topnews') echo "selected"; ?> value="topnews">Главная (1)</option>
    <option <?php if ($razdel == 'toplist') echo "selected"; ?> value="toplist">Топ (4)</option>
@@ -325,7 +328,6 @@ echo '&lt;/p&gt;&lt;h2&gt;&lt;/h2&gt;&lt;p&gt;';?><br>
 <textarea style="width:200px; height:30px; border: 1px solid #cccccc;" 
 		name="datetime" type="text" ><?php echo $datetime; ?></textarea><br>
 		<textarea 	 name="id" type="text" ><?php echo $id; ?></textarea><br>
-	<p>belnews coldwar polithumor helpstud caricatures bestmemes history agents economy ancientukri</p><br>
 		<textarea style="width:600px; height:25px; border: 1px solid #cccccc;" name="url" type="text" ><?php echo $url; ?></textarea><br>
         <p>Добавить картинки (360х230, jpg, Главная)</p>
 		<input type="hidden" name="MAX_FILE_SIZE" value="1500000">

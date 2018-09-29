@@ -23,75 +23,37 @@
 			</div>
 		</div>
 	</div>
+
+
+	<!-- две вертикальные колонки (номер один)-->
 	<div id="rec62126353" class="r t-rec t-rec_pt_0 t-rec_pb_0 r_showed r_anim" style="padding-top:0px;padding-bottom:0px; " data-record-type="812">
-		<!-- t812 --><div class="t812"> <div class="t-container"> <div class="t812__col t-col t-col_6 ">
-					<div class="t812__pricelist-item "> <div class="t812__pricelist-item__row_1 t-row">
-							<div class="t812__pricelist-item__title t-name t-name_sm" field="li_title__1516786328552" style="text-transform:uppercase;">Электронная палитра и бумажная палитра
-							</div>
-							<div class="t812__pricelist-item__price t-name t-name_sm" field="li_text__1516786328552" style="">150$
-							</div>
-						</div>
-						<div class="t812__pricelist-item__line" style="opacity:0.9;"></div> </div>
-					<div class="t812__pricelist-item "> <div class="t812__pricelist-item__row_1 t-row">
-							<div class="t812__pricelist-item__title t-name t-name_sm" field="li_title__1516786569096" style="text-transform:uppercase;">Консультация по прическе</div>
-							<div class="t812__pricelist-item__price t-name t-name_sm" field="li_text__1516786569096" style="">150$
-							</div>
-						</div>
-						<div class="t812__pricelist-item__line" style="opacity:0.9;">
 
-						</div>
-					</div>
-					<div class="t812__pricelist-item ">
-						<div class="t812__pricelist-item__row_1 t-row">
-							<div class="t812__pricelist-item__title t-name t-name_sm" field="li_title__1516790818564" style="text-transform:uppercase;">Компьютерный подбор прически</div>
-							<div class="t812__pricelist-item__price t-name t-name_sm" field="li_text__1516790818564" style="">150$
-							</div>
-						</div>
 
-						<div class="t812__pricelist-item__line" style="opacity:0.9;">
+		<!-- t812 -->
+		<div class="t812">
+			<div class="t-container">
 
-						</div>
-					</div>
-				</div>
-				<div class="t812__col t-col t-col_6 ">
 
-					<div class="t812__pricelist-item ">
 
-						<div class="t812__pricelist-item__row_1 t-row">
-							<div class="t812__pricelist-item__title t-name t-name_sm" field="li_title__1516790700047" style="text-transform:uppercase;">Электронный брендбук одежды</div>
-							<div class="t812__pricelist-item__price t-name t-name_sm" field="li_text__1516790700047" style="">150$
-							</div>
-						</div>
-						<div class="t812__pricelist-item__line" style="opacity:0.9;">
+				<?php echo $page['text']; ?>
 
-						</div>
-					</div>
-					<div class="t812__pricelist-item ">
 
-						<div class="t812__pricelist-item__row_1 t-row">
-							<div class="t812__pricelist-item__title t-name t-name_sm" field="li_title__1516790768983" style="text-transform:uppercase;">Брендбук с одеждой бумажный</div>
-							<div class="t812__pricelist-item__price t-name t-name_sm" field="li_text__1516790768983" style="">300$</div>
-						</div>
-						<div class="t812__pricelist-item__line" style="opacity:0.9;"></div> </div> <div class="t812__pricelist-item ">
 
-						<div class="t812__pricelist-item__row_1 t-row">
-							<div class="t812__pricelist-item__title t-name t-name_sm" field="li_title__1516790853156" style="text-transform:uppercase;">Президентский брендбук</div>
-							<div class="t812__pricelist-item__price t-name t-name_sm" field="li_text__1516790853156" style="">300$</div> </div>
-						<div class="t812__pricelist-item__line" style="opacity:0.9;">
-
-						</div>
-
-					</div>
-				</div>
 			</div>
+
 		</div>
+
+
 		<style>#rec62126353 .t812__col:first-child {	;
 			}
 			@media screen and (max-width: 960px){ #rec62126353 .t812__col:first-child {	margin-bottom: 30px;; }
 			}
 		</style>
+
+
 	</div>
 
+	<!-- звездочки -->
 	<div id="rec64327751" class="r t-rec t-rec_pt_30 t-rec_pb_30 r_showed r_anim" style="padding-top:30px;padding-bottom:30px; " data-record-type="375">
 		<!-- T375 -->
 		<div class="t375">
@@ -103,13 +65,26 @@
 			</div>
 		</div>
 	</div>
-	<div id="rec64327773" class="r t-rec t-rec_pt_15 t-rec_pb_0 r_showed r_anim" style="padding-top:15px;padding-bottom:0px; " data-record-type="812"><!-- t812 -->
+
+	<!-- две вертикальны колонки (номер два)-->
+	<div id="rec64327773" class="r t-rec t-rec_pt_15 t-rec_pb_0 r_showed r_anim" style="padding-top:15px;padding-bottom:0px; " data-record-type="812">
+		<!-- t812 -->
 		<div class="t812">
-			<div class="t-container"> <div class="t812__col t-col t-col_6 ">
-					<div class="t812__pricelist-item "> <div class="t812__pricelist-item__row_1 t-row">
+
+			<div class="t-container">
+
+				<div class="t812__col t-col t-col_6 ">
+
+					<div class="t812__pricelist-item ">
+						<div class="t812__pricelist-item__row_1 t-row">
 							<div class="t812__pricelist-item__title t-name t-name_sm" field="li_title__1534926247076" style="text-transform:uppercase;">Имидж кандидата</div>
-							<div class="t812__pricelist-item__price t-name t-name_sm" field="li_text__1534926247076" style="">150 $</div> </div>
-						<div class="t812__pricelist-item__line" style="opacity:0.9;"></div> </div> <div class="t812__pricelist-item ">
+							<div class="t812__pricelist-item__price t-name t-name_sm" field="li_text__1534926247076" style="">150 $</div>
+						</div>
+						<div class="t812__pricelist-item__line" style="opacity:0.9;">
+
+						</div>
+					</div>
+					<div class="t812__pricelist-item ">
 						<div class="t812__pricelist-item__row_1 t-row">
 							<div class="t812__pricelist-item__title t-name t-name_sm" field="li_title__1534926273919" style="text-transform:uppercase;">Консультация имиджмейкера</div>
 							<div class="t812__pricelist-item__price t-name t-name_sm" field="li_text__1534926273919" style="">150$</div> </div>
@@ -133,7 +108,13 @@
 						<div class="t812__pricelist-item__row_1 t-row">
 							<div class="t812__pricelist-item__title t-name t-name_sm" field="li_title__1534926720441" style="text-transform:uppercase;">Сопровождение в магазин тканей</div>
 							<div class="t812__pricelist-item__price t-name t-name_sm" field="li_text__1534926720441" style="">150$</div> </div>
-						<div class="t812__pricelist-item__line" style="opacity:0.9;"></div> </div> </div> <div class="t812__col t-col t-col_6 ">
+						<div class="t812__pricelist-item__line" style="opacity:0.9;">
+
+						</div>
+					</div>
+				</div>
+
+				<div class="t812__col t-col t-col_6 ">
 					<div class="t812__pricelist-item "> <div class="t812__pricelist-item__row_1 t-row">
 							<div class="t812__pricelist-item__title t-name t-name_sm" field="li_title__1534926376547" style="text-transform:uppercase;">Обучение в группе</div>
 							<div class="t812__pricelist-item__price t-name t-name_sm" field="li_text__1534926376547" style="">400$</div> </div>
@@ -162,6 +143,7 @@
 							<div class="t812__pricelist-item__title t-name t-name_sm" field="li_title__1534926511409" style="text-transform:uppercase;">Шоппинг</div>
 							<div class="t812__pricelist-item__price t-name t-name_sm" field="li_text__1534926511409" style="">150$ час</div> </div>
 						<div class="t812__pricelist-item__line" style="opacity:0.9;"></div>
+
 					</div>
 
 				</div>
@@ -175,7 +157,9 @@
 		<style>#rec64327773 .t812__col:first-child {	;
 			}
 			@media screen and (max-width: 960px){ #rec64327773 .t812__col:first-child {	margin-bottom: 30px;; }
-			}</style>
+			}
+		</style>
+
 	</div>
 
 	<div id="rec62126650" class="r t-rec t-rec_pt_60 t-rec_pb_45 r_anim r_showed" style="padding-top:60px;padding-bottom:45px; " data-record-type="210">
@@ -188,6 +172,7 @@
 		</style>
 
 	</div>
+
 
 	<div id="rec62126695" class="r t-rec t-rec_pt_0 t-rec_pb_15" style="padding-top:0px;padding-bottom:15px;background-color:#000000; " data-record-type="56" data-bg-color="#000000" data-animationappear="off">
 		<!-- T046 -->

@@ -18,7 +18,7 @@
           <div class="t770__logowrapper">
             <div class="t770__logowrapper2">
               <div style="display: block;">
-                <a href="http://<?php echo $site_name; ?>"> <img src="./index/111111.webp" class="t770__imglogo t770__imglogomobile" imgfield="img" style="max-width: 150px; width: 150px;" alt="" data-img-width="250px">
+                <a href="http://<?php echo $site_name; ?>"> <img src="<?php echo $main_name; ?>/index/111111.webp" class="t770__imglogo t770__imglogomobile" imgfield="img" style="max-width: 150px; width: 150px;" alt="" data-img-width="250px">
                 </a>
               </div>
             </div>
@@ -106,7 +106,7 @@
           <div class="t-slds__items-wrapper t-slds_animated-none" data-slider-transition="300" data-slider-with-cycle="true" data-slider-correct-height="true" data-auto-correct-mobile-width="false" data-slider-initialized="true" data-slider-totalslides="3" data-slider-pos="1" data-slider-cycle="" data-slider-animated="" style="width: 6745px; transform: translate3d(-1349px, 0px, 0px); touch-action: pan-y; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); height: 346px;">
             <div class="t-slds__item t-slds__item-loaded" data-slide-index="0" style="width: 1349px;">
               <div class="t734__slds-wrapper t-slds__wrapper" style="">
-                <div class="t-cover__carrier loaded" data-content-cover-bg="./index/11111.png" style="background-image: url(&quot;./index/11111.png&quot;); height: 60vh;" src="">
+                <div class="t-cover__carrier loaded" data-content-cover-bg="<?php echo $main_name; ?>/index/11111.png" style="background-image: url(&quot;<?php echo $main_name; ?>/index/11111.png&quot;); height: 60vh;" src="">
 
                 </div>
                 <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); ">
@@ -125,7 +125,7 @@
             </div>
             <div class="t-slds__item t-slds__item-loaded t-slds__item_active" data-slide-index="1" style="width: 1349px;">
               <div class="t734__slds-wrapper t-slds__wrapper" style="">
-                <div class="t-cover__carrier loaded" data-content-cover-bg="./index/22222.jpg" style="background-image: url(&quot;./index/22222.jpg&quot;); height: 60vh;" src="">
+                <div class="t-cover__carrier loaded" data-content-cover-bg="<?php echo $main_name; ?>/index/22222.jpg" style="background-image: url(&quot;<?php echo $main_name; ?>/index/22222.jpg&quot;); height: 60vh;" src="">
 
                 </div>
                 <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); ">
@@ -145,7 +145,7 @@
             </div>
             <div class="t-slds__item t-slds__item-loaded" data-slide-index="2" style="width: 1349px;">
               <div class="t734__slds-wrapper t-slds__wrapper" style="">
-                <div class="t-cover__carrier loaded" data-content-cover-bg="./index/33333.png" style="background-image: url(&quot;./index/33333.png&quot;); height: 60vh;" src="">
+                <div class="t-cover__carrier loaded" data-content-cover-bg="<?php echo $main_name; ?>/index/33333.png" style="background-image: url(&quot;<?php echo $main_name; ?>/index/33333.png&quot;); height: 60vh;" src="">
 
                 </div>
                 <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); ">
@@ -165,7 +165,7 @@
             </div>
             <div class="t-slds__item  t-slds__item-loaded" data-slide-index="3" style="width: 1349px;">
               <div class="t734__slds-wrapper t-slds__wrapper" style="">
-                <div class="t-cover__carrier loaded" data-content-cover-bg="./index/11111.png" style="background-image: url(&quot;./index/11111.png&quot;); height: 60vh;" src="">
+                <div class="t-cover__carrier loaded" data-content-cover-bg="<?php echo $main_name; ?>/index/11111.png" style="background-image: url(&quot;<?php echo $main_name; ?>/index/11111.png&quot;); height: 60vh;" src="">
 
                 </div>
                 <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); ">
@@ -185,7 +185,7 @@
             </div>
             <div class="t-slds__item" data-slide-index="4" style="width: 1349px;">
               <div class="t734__slds-wrapper t-slds__wrapper" style="">
-                <div class="t-cover__carrier" data-content-cover-bg="./index/22222.jpg" style="background-image: url(&#39;./index/nechto_02.jpg&#39;); height:60vh;">
+                <div class="t-cover__carrier" data-content-cover-bg="<?php echo $main_name; ?>/index/22222.jpg" style="background-image: url(&#39;<?php echo $main_name; ?>/index/nechto_02.jpg&#39;); height:60vh;">
 
                 </div>
                 <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); ">
@@ -296,7 +296,7 @@
           <div class="t-slds__items-wrapper t-slds_animated-none" data-slider-transition="300" data-slider-with-cycle="true" data-slider-correct-height="true" data-auto-correct-mobile-width="false" data-slider-initialized="true" data-slider-totalslides="3" data-slider-pos="1" data-slider-cycle="" data-slider-animated="" style="width: 0px; transform: translate3d(0px, 0px, 0px); touch-action: pan-y; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); height: 0px;">
             <div class="t-slds__item t-slds__item-loaded" data-slide-index="0" style="width: 0px;">
               <div class="t734__slds-wrapper t-slds__wrapper" style="">
-                <div class="t-cover__carrier" data-content-cover-bg="./index/11111.png" style="background-image: url(&#39;./index/11111.png&#39;); height:60vh;">
+                <div class="t-cover__carrier" data-content-cover-bg="<?php echo $main_name; ?>/index/11111.png" style="background-image: url(&#39;<?php echo $main_name; ?>/index/11111.png&#39;); height:60vh;">
                 </div>
                 <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); ">
                 </div>
@@ -313,7 +313,7 @@
             </div>
             <div class="t-slds__item t-slds__item-loaded t-slds__item_active" data-slide-index="1" style="width: 0px;">
               <div class="t734__slds-wrapper t-slds__wrapper" style="">
-                <div class="t-cover__carrier" data-content-cover-bg="./index/22222.jpg" style="background-image: url(&#39;./index/22222.jpg&#39;); height:60vh;">
+                <div class="t-cover__carrier" data-content-cover-bg="<?php echo $main_name; ?>/index/22222.jpg" style="background-image: url(&#39;<?php echo $main_name; ?>/index/22222.jpg&#39;); height:60vh;">
 
                 </div>
                 <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); "></div> <div class="t734__table" style="height:60vh;">
@@ -333,7 +333,7 @@
             </div>
             <div class="t-slds__item t-slds__item-loaded" data-slide-index="2" style="width: 0px;">
               <div class="t734__slds-wrapper t-slds__wrapper" style="">
-                <div class="t-cover__carrier" data-content-cover-bg="./index/33333.png" style="background-image: url(&#39;./index/33333.png&#39;); height:60vh;">
+                <div class="t-cover__carrier" data-content-cover-bg="<?php echo $main_name; ?>/index/33333.png" style="background-image: url(&#39;<?php echo $main_name; ?>/index/33333.png&#39;); height:60vh;">
 
                 </div>
                 <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); ">
@@ -352,7 +352,7 @@
             </div>
             <div class="t-slds__item  t-slds__item-loaded" data-slide-index="3" style="width: 0px;">
               <div class="t734__slds-wrapper t-slds__wrapper" style="">
-                <div class="t-cover__carrier" data-content-cover-bg="./index/11111.png" style="background-image: url(&#39;./index/11111.png&#39;); height:60vh;">
+                <div class="t-cover__carrier" data-content-cover-bg="<?php echo $main_name; ?>/index/11111.png" style="background-image: url(&#39;<?php echo $main_name; ?>/index/11111.png&#39;); height:60vh;">
 
                 </div>
                 <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); ">
@@ -372,7 +372,7 @@
             </div>
             <div class="t-slds__item" data-slide-index="4" style="width: 0px;">
               <div class="t734__slds-wrapper t-slds__wrapper" style="">
-                <div class="t-cover__carrier" data-content-cover-bg="./index/22222.jpg" style="background-image: url(&#39;./index/22222.jpg&#39;); height:60vh;">
+                <div class="t-cover__carrier" data-content-cover-bg="<?php echo $main_name; ?>/index/22222.jpg" style="background-image: url(&#39;<?php echo $main_name; ?>/index/22222.jpg&#39;); height:60vh;">
 
                 </div>
                 <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); ">

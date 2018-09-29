@@ -1,7 +1,14 @@
 <?php
 
+date_default_timezone_set('Europe/Moscow');
+$datetime_site = date("Y-m-d H:i:s");
+
+
 $site_name = 'imagemaker.by';
 $main_name = 'http://'.$site_name;
+$email = "contact@imagemaker.by";
+$site_url = $main_name."/";
+
 $company_name = 'ImageMaker';
 $vk_name = 'https://vk.com/maria.khramtsova';
 

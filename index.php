@@ -26,7 +26,7 @@ if (!$route) require_once("login_users.php");
 
 <body class="t-body" style="margin: 0px;">
 <?php
-if ($admin) require_once("admin.php");
+//if ($admin) require_once("admin.php");
 
 if ($route) require_once("l-main.php");
 else require_once("page.php");

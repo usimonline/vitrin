@@ -28,7 +28,6 @@ if (!$route) require_once("login_users.php");
 <?php
 //if ($admin) require_once("admin.php");
 
-echo $total;
 if ($route) require_once("l-main.php");
 //else require_once("page.php");
 

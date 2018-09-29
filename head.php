@@ -14,28 +14,28 @@
 <link rel="canonical" href="http://<?php echo $site_name; ?>/">
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <!-- Assets -->
-<link rel="stylesheet" href="./index/tilda-grid-3.0.min.css" type="text/css" media="all">
-<link rel="stylesheet" href="./index/tilda-blocks-2.12.css" type="text/css" media="all">
-<link rel="stylesheet" href="./index/tilda-animation-1.0.min.css" type="text/css" media="all">
-<link rel="stylesheet" href="./index/tilda-slds-1.4.min.css" type="text/css" media="all">
-<link rel="stylesheet" href="./index/tilda-zoom-2.0.min.css" type="text/css" media="all">
-<link rel="stylesheet" href="./index/tilda-popup-1.1.min.css" type="text/css" media="all">
+<link rel="stylesheet" href="<?php echo $main_name; ?>/index/tilda-grid-3.0.min.css" type="text/css" media="all">
+<link rel="stylesheet" href="<?php echo $main_name; ?>/index/tilda-blocks-2.12.css" type="text/css" media="all">
+<link rel="stylesheet" href="<?php echo $main_name; ?>/index/tilda-animation-1.0.min.css" type="text/css" media="all">
+<link rel="stylesheet" href="<?php echo $main_name; ?>/index/tilda-slds-1.4.min.css" type="text/css" media="all">
+<link rel="stylesheet" href="<?php echo $main_name; ?>/index/tilda-zoom-2.0.min.css" type="text/css" media="all">
+<link rel="stylesheet" href="<?php echo $main_name; ?>/index/tilda-popup-1.1.min.css" type="text/css" media="all">
 
 
-<script type="text/javascript" async="" id="tildastatscript" src="./index/tildastat-0.2.min.js.Без названия"></script>
-<script async="" src="./index/analytics.js.Без названия"></script>
-<script type="text/javascript" async="" src="./index/watch.js.Без названия"></script>
-<script async="" src="./index/gtm.js.Без названия"></script>
-<script async="" src="./index/fbevents.js.Без названия"></script>
-<script src="./index/jquery-1.10.2.min.js.Без названия"></script>
-<script src="./index/tilda-scripts-2.8.min.js.Без названия"></script>
-<script src="./index/tilda-blocks-2.7.js.Без названия"></script>
-<script src="./index/lazyload-1.3.min.js.Без названия"></script>
-<script src="./index/tilda-animation-1.0.min.js.Без названия"></script>
-<script src="./index/tilda-slds-1.4.min.js.Без названия"></script>
-<script src="./index/hammer.min.js.Без названия"></script>
-<script src="./index/tilda-forms-1.0.min.js.Без названия"></script>
-<script src="./index/tilda-map-1.0.min.js.Без названия"></script>
+<script type="text/javascript" async="" id="tildastatscript" src="<?php echo $main_name; ?>/index/tildastat-0.2.min.js.Без названия"></script>
+<script async="" src="<?php echo $main_name; ?>/index/analytics.js.Без названия"></script>
+<script type="text/javascript" async="" src="<?php echo $main_name; ?>/index/watch.js.Без названия"></script>
+<script async="" src="<?php echo $main_name; ?>/index/gtm.js.Без названия"></script>
+<script async="" src="<?php echo $main_name; ?>/index/fbevents.js.Без названия"></script>
+<script src="<?php echo $main_name; ?>/index/jquery-1.10.2.min.js.Без названия"></script>
+<script src="<?php echo $main_name; ?>/index/tilda-scripts-2.8.min.js.Без названия"></script>
+<script src="<?php echo $main_name; ?>/index/tilda-blocks-2.7.js.Без названия"></script>
+<script src="<?php echo $main_name; ?>/index/lazyload-1.3.min.js.Без названия"></script>
+<script src="<?php echo $main_name; ?>/index/tilda-animation-1.0.min.js.Без названия"></script>
+<script src="<?php echo $main_name; ?>/index/tilda-slds-1.4.min.js.Без названия"></script>
+<script src="<?php echo $main_name; ?>/index/hammer.min.js.Без названия"></script>
+<script src="<?php echo $main_name; ?>/index/tilda-forms-1.0.min.js.Без названия"></script>
+<script src="<?php echo $main_name; ?>/index/tilda-map-1.0.min.js.Без названия"></script>
 
 
 <!-- Facebook Pixel Code -->

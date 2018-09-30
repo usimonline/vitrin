@@ -34,7 +34,7 @@
 				<div class="t545__top t545__col t-col t-col_6 "><!-- Картинка -->
 
 					<div class="t545__blockimg t-bgimg loaded" bgimgfield="img" data-original="./index/rabotnik_03.png"
-						 style="background-image: url(&quot;./index/rabotnik_03.png&quot;); height: 438px;" src="">
+						 style="background-image: url(&quot;<?php echo $main_name; ?>/index/rabotnik_03.png&quot;); height: 438px;" src="">
 
 					</div>
 				</div>

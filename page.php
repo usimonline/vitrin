@@ -33,7 +33,9 @@
 				<?php echo transform_img($page['text'],$page['url'],$site_url); ?>
 
 			</div>
+			
 		</div>
+		
 	</div>
 
 	<?php

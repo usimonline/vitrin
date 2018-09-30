@@ -98,6 +98,7 @@ function transform_img($string,$url,$site_url) {
 
 	$string = str_replace('<text_ne_udaliati>', '<div class="t-col t545__col t-col_6"><div class="t545__text t-text t-text_sm " field="text" style="">', $string);
 	$string = str_replace('</text_ne_udaliati>', '</div></div>', $string);
+	$string = str_replace('<perenos_stroki>', '</div><div class="t-container t-align_center">', $string);
 	return $string;
 }
 

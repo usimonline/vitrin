@@ -11,7 +11,7 @@
                       <div class="t802__hover-filter">
 
                       </div>
-                      <?php $do_i_posle_temp = $lsidebar[0]['url_ext'];?>
+                      <?php $do_i_posle_temp = unserialize($lsidebar[0]['url_ext']);?>
                       <div class="t802__text t-text t-descr_xxs"><?php echo $do_i_posle_temp[7][0]; ?>
                       </div>
                   </div>

@@ -258,6 +258,7 @@ $i = 0;
 while($row = mysqli_fetch_array($res))
 {
 	$lsidebar[$i]['teme'] = $row['teme'];
+	$lsidebar[$i]['text'] = $row['text'];
 	$lsidebar[$i]['description'] = $row['description'];
 	$lsidebar[$i++]['url'] = $row['url'];
 }

@@ -186,14 +186,14 @@
 		</div> <div class="t-cover__filter" style="height:50vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: -o-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#4c000000&#39;, endColorstr=&#39;#4c000000&#39;);"></div> <div class="t-container"> <div class="t-cover__wrapper t-valign_middle" style="height:50vh;">
 				<div class="t032"> <div class="t032__wrapper" data-hook-content="covercontent">
 						<div class="t032__title t-title t-title_md" style="" field="title">
-							<div style="color:#ffffff;" data-customstyle="yes"><a href="http://www.instagram.com/mesto_artplay" style="color: rgb(255, 255, 255);">Консультация Personal Image для женщин!</a></div></div>
+							<div style="color:#ffffff;" data-customstyle="yes"><a href="http://www.instagram.com/mesto_artplay" style="color: rgb(255, 255, 255);"><?php echo $lsidebar[0]['description'];?></a></div></div>
 						<div class="t-row"> <div class="t-col t-col_2 t-prefix_5">
 								<div class="t032__line" style="background-color:#cc9e05;">
 
 								</div>
 							</div> </div>
 						<div class="t-row"> <div class="t-col t-col_10 t-prefix_1">
-								<div class="t032__descr t-descr t-descr_lg" style="" field="descr">Каждый, кто хочет изменить имидж, сталкивается с проблемой, какая же прическа и одежда мне подходит? <br>Решение найдено. Нужно записаться на консультацию Imagemaker.</div> </div>
+								<div class="t032__descr t-descr t-descr_lg" style="" field="descr"><?php echo $lsidebar[0]['text'];?></div> </div>
 						</div> <span class="space"></span>
 					</div>
 				</div>

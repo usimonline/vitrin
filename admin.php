@@ -289,9 +289,10 @@ $res = mysqli_query($link, $select);
 	$description = 'Описание';
 	$razdel = 'Не используется';
 	$text = 'Здесь текст страницы.
-	Пример:
+Пример:
 &lt;text_ne_udaliati&gt;Вставка первого текста, далее картинка 2&lt;/text_ne_udaliati&gt;
-&lt;img_2img&gt;&lt;text_ne_udaliati&gt;Вставка второго текста, далее картинка 3&lt;/text_ne_udaliati&gt;
+&lt;img_2img&gt;
+&lt;text_ne_udaliati&gt;Вставка второго текста, далее картинка 3&lt;/text_ne_udaliati&gt;
 &lt;img_3img&gt;';
 	$keys = 'Ключи страницы';
 
@@ -332,11 +333,11 @@ echo '&lt;img_2img_smol&gt; - вставка маленькой картинки
 ?><br>
 <?php
 echo '&lt;text_ne_udaliati&gt;на это место вставлять обычный текст&lt;/text_ne_udaliati&gt;<br>';
-echo '&lt;perenos_stroki&gt; - для переноса строки вставить в нужное место';
+echo '&lt;perenos_stroki&gt; - для переноса строки вставить в нужное место (отделить блоки по вертикали)';
 ?><br>
 
 		<textarea style="width:800px; height:300px; border: 1px solid #cccccc;" name="text" type="text" ><?php echo $text ?></textarea><br>
-	<?php echo 'Пункты для таблицы цен и услуг (или дополниельные настройки главной страницы)<br>';
+	<?php echo 'Пункты для таблицы цен и услуг (или дополниельные настройки главной страницы - заполнять по порядку)<br>';
 	 foreach ($url_ext as $key => $value) : ?>
 	<textarea style="width:300px; height:25px; border: 1px solid #cccccc;" name="table_<?php echo $key; ?>_0" type="text" ><?php echo $value[0]; ?></textarea>
 		<textarea style="width:200px; height:25px; border: 1px solid #cccccc;" name="table_<?php echo $key; ?>_1" type="text" ><?php echo $value[1]; ?></textarea><br>

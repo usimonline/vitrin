@@ -70,7 +70,12 @@ $url_ext = $_POST["url_ext"];
 		array($_POST["table_1_0"],$_POST["table_1_1"]),
 		array($_POST["table_2_0"],$_POST["table_2_1"]),
 		array($_POST["table_3_0"],$_POST["table_3_1"]),
-		array($_POST["table_4_0"],$_POST["table_4_1"])
+		array($_POST["table_4_0"],$_POST["table_4_1"]),
+		array($_POST["table_5_0"],$_POST["table_5_1"]),
+		array($_POST["table_6_0"],$_POST["table_6_1"]),
+		array($_POST["table_7_0"],$_POST["table_7_1"]),
+		array($_POST["table_8_0"],$_POST["table_8_1"]),
+		array($_POST["table_9_0"],$_POST["table_9_1"])
 	);
 
 	$url_ext = serialize($url_ext);
@@ -309,6 +314,11 @@ $res = mysqli_query($link, $select);
 	$keys = 'Ключи страницы';
 
 	$url_ext = array( array('',''),
+		array('',''),
+		array('',''),
+		array('',''),
+		array('',''),
+		array('',''),
 		array('',''),
 		array('',''),
 		array('',''),

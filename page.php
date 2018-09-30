@@ -32,23 +32,6 @@
 
 				<?php echo transform_img($page['text'],$page['url'],$site_url); ?>
 
-				<div class="t545__top t545__col t-col t-col_6 ">
-
-
-
-								<div class="t545__title t-heading t-heading_xs " field="title" style="">Мария Храмцова
-								</div>
-
-
-
-								<div class="t545__text t-text t-text_sm " field="text" style="">
-									Стаж работы 23 года. Прошёл обучение в ведущих школах: "ПЕРСОНА", WEIIA, TONI &amp; GUY, ALDO COPPOLA.
-									Широкий спектр услуг: Стрижки, женские, мужские, детские. Коррекция бороды и усов. Является экспертным колористом.
-									Выполнение всех видов окрашивания.
-								</div>
-
-				</div>
-
 			</div>
 		</div>
 	</div>

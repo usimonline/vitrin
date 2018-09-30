@@ -317,6 +317,7 @@ $res = mysqli_query($link, $select);
 ?>
 <br><br>
 <h1>Панель добавления страниц</h1>
+<p>Для изменения существующих страниц и элементов главной страницы следуйте ниже.</p>
 <form method="POST" enctype="multipart/form-data" action="<?php echo $main_name; ?>/admin/<?php echo $keys_value; ?>/<?php echo $nomer_url; ?>/">
         <textarea style="width:500px; height:50px; border: 1px solid #cccccc;" name="teme" type="text" ><?php echo $teme; ?></textarea><br>
 		<textarea style="width:600px; height:50px; border: 1px solid #cccccc;" 

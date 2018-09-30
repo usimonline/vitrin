@@ -216,6 +216,9 @@ $i = 0;
 while($row = mysqli_fetch_array($res))
 {
 	$toplist[$i]['datetime'] = $row['datetime'];
+	$toplist[$i]['text'] = $row['text'];
+	$toplist[$i]['url_ext'] = $row['url_ext'];
+	$toplist[$i]['description'] = $row['description'];
 	$toplist[$i]['teme'] = $row['teme'];
 	$toplist[$i]['comments'] = $row['comments'];
 	$toplist[$i++]['url'] = $row['url'];

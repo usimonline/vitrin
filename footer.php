@@ -89,10 +89,10 @@
               <div class="t433__text t-descr t-descr_xxs t-animate t-animate_started" data-animate-style="fadeinleft" data-animate-group="yes" data-animate-order="6" data-animate-delay="0.3" field="text" style="color: rgb(255, 255, 255); transition-delay: 0.6s;">
 
                 <div style="font-size:18px;color:#ffffff;" data-customstyle="yes">
-                  <a href="tel:+375296340205" style="color:#ffffff !important;">+375 29 634 02 05
+                  <a href="tel:<?php echo $header[0]['description']; ?>" style="color:#ffffff !important;"><?php echo $header[0]['description']; ?>
                   </a>
                   <br>
-                  <a href="https://yandex.by/maps/-/CBBNbTAppB" style="color:#ffffff !important;"><br>м. Площадь Победы<br>пр. Машерова, д.9 оф. 208
+                  <a href="https://yandex.by/maps/-/CBBNbTAppB" style="color:#ffffff !important;"><br><?php echo $header[0]['text']; ?>
                   </a>
                   <br>
 

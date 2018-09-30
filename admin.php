@@ -319,7 +319,7 @@ $res = mysqli_query($link, $select);
 
 
 
-<p>&lt;a target="_blank" href="\news\...\"&gt;&lt;/a&gt - вставка ссылки (скопируй в нужное место);</p>
+<p>&lt;a target="_blank" href="\news\...\"&gt;&lt;/a&gt; - вставка ссылки (скопируй в нужное место)</p>
 <?php 
 echo '&lt;img_2img&gt; - вставка картинки (скопируйте в нужное место)';?><br>
 <?php

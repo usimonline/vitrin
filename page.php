@@ -31,6 +31,26 @@
 
 			<div class="t-container t-align_center">
 
+
+				<div class="t-col t545__col t-col_6 ">
+
+					<div class="t545__textwrapper t-align_left" style="background-color: rgb(255, 255, 255); height: 438px;">
+						<div class="t545__content t-valign_middle">
+							<div class="t545__box">
+
+
+
+								<div class="t545__text t-text t-text_sm " field="text" style=""><?php echo $page['text']; ?>
+								</div>
+
+							</div>
+						</div>
+					</div>
+
+				</div>
+
+
+
 				<div class="t545__top t545__col t-col t-col_6 "><!-- Картинка -->
 
 					<div class="t545__blockimg t-bgimg loaded" bgimgfield="img" data-original="./index/rabotnik_03.png"
@@ -48,7 +68,7 @@
 						<div class="t545__content t-valign_middle">
 							<div class="t545__box">
 
-								
+
 
 								<div class="t545__text t-text t-text_sm " field="text" style=""><?php echo $page['text']; ?>
 								</div>

@@ -288,9 +288,10 @@ $res = mysqli_query($link, $select);
 	$teme = 'Тема';
 	$description = 'Описание';
 	$razdel = 'Не используется';
-	$text = 'Здесь текст страницы<br>Пример:<br>
-&lt;text_ne_udaliati&gt;Вставка первого текста, далее картинка 2&lt;/text_ne_udaliati&gt;<br>
-&lt;img_2img&gt;<br>&lt;text_ne_udaliati&gt;Вставка второго текста, далее картинка 3&lt;/text_ne_udaliati&gt;<br>
+	$text = 'Здесь текст страницы.
+	Пример:
+&lt;text_ne_udaliati&gt;Вставка первого текста, далее картинка 2&lt;/text_ne_udaliati&gt;
+&lt;img_2img&gt;&lt;text_ne_udaliati&gt;Вставка второго текста, далее картинка 3&lt;/text_ne_udaliati&gt;
 &lt;img_3img&gt;';
 	$keys = 'Ключи страницы';
 

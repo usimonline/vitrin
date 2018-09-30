@@ -280,7 +280,16 @@ $res = mysqli_query($link, $select);
 	$text = $row["text"];
 	$keys = $row["keys"];
 
-	$url_ext = unserialize($row["url_ext"]);
+    if(!empty($_POST['url_ext'])) {
+		$url_ext = unserialize($row["url_ext"]);
+	} else {
+		$url_ext = array( array('',''),
+			array('',''),
+			array('',''),
+			array('',''),
+			array('','')
+		);
+	}
 
 
 
@@ -342,10 +351,8 @@ echo '&lt;/p&gt;&lt;h2&gt;&lt;/h2&gt;&lt;p&gt;';?><br>
 		<textarea style="width:800px; height:300px; border: 1px solid #cccccc;" name="text" type="text" ><?php echo $text ?></textarea><br>
 
 	<?php foreach ($url_ext as $key => $value) { ?>
-	<textarea style="width:300px; height:25px; border: 1px solid #cccccc;" name="table_<?php echo $key; ?>_0" type="text" >
-		<?php echo $value[0]; ?></textarea>
-		<textarea style="width:200px; height:25px; border: 1px solid #cccccc;" name="table_<?php echo $key; ?>_1" type="text" >
-		<?php echo $value[1]; ?></textarea><br>
+	<textarea style="width:300px; height:25px; border: 1px solid #cccccc;" name="table_<?php echo $key; ?>_0" type="text" ><?php echo $value[0]; ?></textarea>
+		<textarea style="width:200px; height:25px; border: 1px solid #cccccc;" name="table_<?php echo $key; ?>_1" type="text" ><?php echo $value[1]; ?></textarea><br>
 	<?php }?>
 
 

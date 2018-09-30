@@ -39,7 +39,7 @@
 								<div class="t545__title t-heading t-heading_xs " field="title" style="">Мария Храмцова
 								</div>
 
-								
+
 
 								<div class="t545__text t-text t-text_sm " field="text" style="">
 									Стаж работы 23 года. Прошёл обучение в ведущих школах: "ПЕРСОНА", WEIIA, TONI &amp; GUY, ALDO COPPOLA.

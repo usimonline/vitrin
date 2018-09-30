@@ -319,22 +319,24 @@ $res = mysqli_query($link, $select);
 
 
 
-<p>&lt;a target="_blank" href="\news\...\"&gt;&lt;/a&gt; - вставка ссылки (скопируй в нужное место)</p>
+<p>&lt;a target="_blank" href="\news\...\"&gt;&lt;/a&gt; - вставка ссылки (скопируйте в нужное место)</p>
 <?php 
-echo '&lt;img_2img&gt; - вставка картинки (скопируйте в нужное место)';?><br>
+echo '&lt;img_2img&gt; - вставка картинки (скопируйте в нужное место)';
+?><br>
 <?php
-echo '&lt;img_2img_smol&gt; - вставка маленькой картинки (скопируйте в нужное место)';?><br>
+echo '&lt;img_2img_smol&gt; - вставка маленькой картинки (скопируйте в нужное место)';
+?><br>
 <?php
-echo '&lt;/text_ne_udaliati&gt;сюда вставлять обычный текст&lt;/text_ne_udaliati&gt;<br>';
+echo '&lt;text_ne_udaliati&gt;сюда вставлять обычный текст&lt;/text_ne_udaliati&gt;<br>';
 echo '&lt;perenos_stroki&gt; - для переноса строки вставить в нужное место';
 ?><br>
 
 		<textarea style="width:800px; height:300px; border: 1px solid #cccccc;" name="text" type="text" ><?php echo $text ?></textarea><br>
-	<?php echo 'Пункты для таблицы цен и услуг (или дополниельные настройки главной страниц)';?><br>
-	 foreach ($url_ext as $key => $value) { ?>
+	<?php echo 'Пункты для таблицы цен и услуг (или дополниельные настройки главной страниц)<br>';
+	 foreach ($url_ext as $key => $value) : ?>
 	<textarea style="width:300px; height:25px; border: 1px solid #cccccc;" name="table_<?php echo $key; ?>_0" type="text" ><?php echo $value[0]; ?></textarea>
 		<textarea style="width:200px; height:25px; border: 1px solid #cccccc;" name="table_<?php echo $key; ?>_1" type="text" ><?php echo $value[1]; ?></textarea><br>
-	<?php }?>
+	<?php  endforeach; ?>
 
 
 <textarea style="width:600px; height:25px; border: 1px solid #cccccc;" name="url_frame" type="text" ><?php echo $url_frame ?></textarea><br>

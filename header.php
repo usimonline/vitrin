@@ -66,7 +66,7 @@
                     </a>
                     <br>
                     <a href="https://yandex.by/maps/-/CBBNbTAppB" target="_blank" style="color: rgb(255, 255, 255);">
-                      <?php echo $header[0]['teme']; ?>
+                      <?php echo $header[0]['text']; ?>
                     </a>
                     <br>
                   </div>

@@ -34,7 +34,7 @@
               </li>
               <li class="t770__list_item"><a class="t-menu__link-item" href="http://<?php echo $site_name; ?>/<?php echo $team_name; ?>" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="3">Команда</a>
               </li>
-              <li class="t770__list_item"><a class="t-menu__link-item" href="http://<?php echo $site_name; ?>/#rec60130970" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="4">Контакты
+              <li class="t770__list_item"><a class="t-menu__link-item" href="#rec60130970" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="4">Контакты
                 </a>
               </li>
             </ul>
@@ -51,7 +51,7 @@
               <li class="t770__list_item"><a class="t-menu__link-item" href="<?php echo $site_url; ?>#rec64320842" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="1" data-tooltip-menu-id="64330707">Услуги</a>
               </li>
               <li class="t770__list_item"><a class="t-menu__link-item" href="http://<?php echo $site_name; ?>/<?php echo $sale_name; ?>" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="2">Акции</a></li>
-              <li class="t770__list_item"><a class="t-menu__link-item" href="http://<?php echo $site_name; ?>/<?php echo $team_name; ?>" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="3">Команда</a></li> <li class="t770__list_item"><a class="t-menu__link-item" href="http://<?php echo $site_name; ?>/#rec60130970" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="4">Контакты</a></li> </ul></div></div></div></div>
+              <li class="t770__list_item"><a class="t-menu__link-item" href="http://<?php echo $site_name; ?>/<?php echo $team_name; ?>" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="3">Команда</a></li> <li class="t770__list_item"><a class="t-menu__link-item" href="#rec60130970" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="4">Контакты</a></li> </ul></div></div></div></div>
 
 
 

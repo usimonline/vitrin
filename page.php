@@ -26,11 +26,28 @@
 
 	<div id="rec62126363" class="r t-rec t-rec_pt_30 t-rec_pb_45 r_showed r_anim" style="padding-top:30px;padding-bottom:45px; " data-record-type="65">
 		<!-- T056 -->
+
 		<div class="t056">
-			<div class="t-container t-align_center"> <div class="t-col t-col_10 t-prefix_1">
-					<div class="t056__descr t-text t-text_sm" field="descr" style=""><?php echo $page['text']; ?>
+
+			<div class="t-container t-align_center">
+
+				<div class="t545__top t545__col t-col t-col_6 "><!-- Картинка -->
+
+					<div class="t545__blockimg t-bgimg loaded" bgimgfield="img" data-original="./index/rabotnik_03.png"
+						 style="background-image: url(&quot;./index/rabotnik_03.png&quot;); height: 438px;" src="">
+
 					</div>
 				</div>
+
+
+				<div class="t-col t-col_10 t-prefix_1">
+
+
+					<div class="t545__text t-text t-text_sm " field="text" style=""><?php echo $page['text']; ?>
+					</div>
+
+				</div>
+
 			</div>
 		</div>
 	</div>

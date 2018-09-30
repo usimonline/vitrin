@@ -37,27 +37,48 @@ require_once ('requisites.php');
     <!-- T545 --><div style="width: 0; height: 0; overflow: hidden;">
       <div class="t545__sizer t-col t-col_6" data-auto-correct-mobile-width="false" style="height:70vh;">
 
-      </div></div><div class="t545">
+      </div>
+    </div>
+
+    <div class="t545">
       <div class="t-container" data-height="70">
+
         <div class="t545__top t545__col t-col t-col_6 ">
-          <div class="t545__blockimg t-bgimg loaded" bgimgfield="img" data-original="./index/rabotnik_03.png" style="background-image: url(&quot;./index/rabotnik_03.png&quot;); height: 438px;" src=""></div>
-        </div> <div class="t-col t545__col t-col_6 ">
+
+          <div class="t545__blockimg t-bgimg loaded" bgimgfield="img" data-original="./index/rabotnik_03.png"
+               style="background-image: url(&quot;./index/rabotnik_03.png&quot;); height: 438px;" src="">
+
+          </div>
+        </div>
+
+        <div class="t-col t545__col t-col_6 ">
+
           <div class="t545__textwrapper t-align_left" style="background-color: rgb(255, 255, 255); height: 438px;">
             <div class="t545__content t-valign_middle">
               <div class="t545__box">
+
                 <div class="t545__title t-heading t-heading_xs " field="title" style="">Мария Храмцова
                 </div>
+                
                 <div class="t545__descr t-descr t-descr_xs " field="descr" style="">Арт-директор
                 </div>
+
                 <div class="t545__line " style="background-color: #ffffff;">
 
                 </div>
-                <div class="t545__text t-text t-text_sm " field="text" style="">Стаж работы 23 года. Прошёл обучение в ведущих школах: "ПЕРСОНА", WEIIA, TONI &amp; GUY, ALDO COPPOLA. Широкий спектр услуг: Стрижки, женские, мужские, детские. Коррекция бороды и усов. Является экспертным колористом. Выполнение всех видов окрашивания.
+
+                <div class="t545__text t-text t-text_sm " field="text" style="">
+                  Стаж работы 23 года. Прошёл обучение в ведущих школах: "ПЕРСОНА", WEIIA, TONI &amp; GUY, ALDO COPPOLA.
+                  Широкий спектр услуг: Стрижки, женские, мужские, детские. Коррекция бороды и усов. Является экспертным колористом.
+                  Выполнение всех видов окрашивания.
                 </div>
+
               </div>
             </div>
           </div>
+
         </div>
+
       </div>
     </div>
     <script type="text/javascript"> $(window).resize(function() {	var t545_doResize = $('#rec60130109').data('resize-timeout'); if (t545_doResize) {clearTimeout(t545_doResize)}; t545_doResize = setTimeout(function() { t545_setHeight('60130109'); }, 500); $('#rec60130109').data('resize-timeout', t545_doResize);	}); $(document).ready(function() { setTimeout(function(){ t545_setHeight('60130109'); }, 50); }); $('.t545').bind('displayChanged',function(){ t545_setHeight('60130109'); });

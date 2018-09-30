@@ -229,6 +229,7 @@ while($row = mysqli_fetch_array($res))
 {
 	$topnews[$i]['datetime'] = $row['datetime'];
 	$topnews[$i]['teme'] = $row['teme'];
+	$topnews[$i]['text'] = $row['text'];
 	$topnews[$i]['description'] = $row['description'];
 	$topnews[$i]['comments'] = $row['comments'];
 	$topnews[$i++]['url'] = $row['url'];

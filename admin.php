@@ -288,7 +288,10 @@ $res = mysqli_query($link, $select);
 	$teme = 'Тема';
 	$description = 'Описание';
 	$razdel = 'Не используется';
-	$text = 'Здесь текст страницы';
+	$text = 'Здесь текст страницы<br>Пример:<br>
+&lt;text_ne_udaliati&gt;Вставка первого текста, далее картинка 2&lt;/text_ne_udaliati&gt;<br>
+&lt;img_2img&gt;<br>&lt;text_ne_udaliati&gt;Вставка второго текста, далее картинка 3&lt;/text_ne_udaliati&gt;<br>
+&lt;img_3img&gt;';
 	$keys = 'Ключи страницы';
 
 	$url_ext = array( array('',''),
@@ -321,18 +324,18 @@ $res = mysqli_query($link, $select);
 
 <p>&lt;a target="_blank" href="\news\...\"&gt;&lt;/a&gt; - вставка ссылки (скопируйте в нужное место)</p>
 <?php 
-echo '&lt;img_2img&gt; - вставка картинки (скопируйте в нужное место)';
+echo '&lt;img_2img&gt; - вставка картинки (скопируйте в нужное место, измените цифру по номеру картинки (2-10))';
 ?><br>
 <?php
 echo '&lt;img_2img_smol&gt; - вставка маленькой картинки (скопируйте в нужное место)';
 ?><br>
 <?php
-echo '&lt;text_ne_udaliati&gt;сюда вставлять обычный текст&lt;/text_ne_udaliati&gt;<br>';
+echo '&lt;text_ne_udaliati&gt;на это место вставлять обычный текст&lt;/text_ne_udaliati&gt;<br>';
 echo '&lt;perenos_stroki&gt; - для переноса строки вставить в нужное место';
 ?><br>
 
 		<textarea style="width:800px; height:300px; border: 1px solid #cccccc;" name="text" type="text" ><?php echo $text ?></textarea><br>
-	<?php echo 'Пункты для таблицы цен и услуг (или дополниельные настройки главной страниц)<br>';
+	<?php echo 'Пункты для таблицы цен и услуг (или дополниельные настройки главной страницы)<br>';
 	 foreach ($url_ext as $key => $value) : ?>
 	<textarea style="width:300px; height:25px; border: 1px solid #cccccc;" name="table_<?php echo $key; ?>_0" type="text" ><?php echo $value[0]; ?></textarea>
 		<textarea style="width:200px; height:25px; border: 1px solid #cccccc;" name="table_<?php echo $key; ?>_1" type="text" ><?php echo $value[1]; ?></textarea><br>
@@ -358,8 +361,13 @@ echo '&lt;perenos_stroki&gt; - для переноса строки встави
 		<textarea style="width:600px; height:25px; border: 1px solid #cccccc;" name="url" type="text" ><?php echo $url; ?></textarea><br>
         <p>Добавить картинки (360х230, jpg, Главная)</p>
 		<input type="hidden" name="MAX_FILE_SIZE" value="1500000">
-        <input type="file" name="filename"><br><br>
-
+	<?php
+	echo 'Картинка номер 1 для главной страницы (размер не более 1 МБ)';
+	?><br>
+        <input type="file" name="filename"><br>
+	<?php
+	echo 'Другие картинки для данной страницы (2-10)';
+	?><br>
 		<input type="file" name="filename_2"><br>
 		<input type="file" name="filename_3"><br>
 		<input type="file" name="filename_4"><br>

@@ -81,8 +81,8 @@
 
 					<div class="t812__pricelist-item ">
 						<div class="t812__pricelist-item__row_1 t-row">
-							<div class="t812__pricelist-item__title t-name t-name_sm" field="li_title__1534926247076" style="text-transform:uppercase;">$value[0]</div>
-							<div class="t812__pricelist-item__price t-name t-name_sm" field="li_text__1534926247076" style="">$value[1]</div>
+							<div class="t812__pricelist-item__title t-name t-name_sm" field="li_title__1534926247076" style="text-transform:uppercase;"><?php echo $value[0]; ?></div>
+							<div class="t812__pricelist-item__price t-name t-name_sm" field="li_text__1534926247076" style=""><?php echo $value[1]; ?></div>
 						</div>
 						<div class="t812__pricelist-item__line" style="opacity:0.9;">
 
@@ -99,12 +99,12 @@
 
 				<div class="t812__col t-col t-col_6 ">
 					<?php foreach($url_ext as $key => $value) :
-						if ($key%2 == 0) : ?>
+						if ($key%2 == 1) : ?>
 
 							<div class="t812__pricelist-item ">
 								<div class="t812__pricelist-item__row_1 t-row">
-									<div class="t812__pricelist-item__title t-name t-name_sm" field="li_title__1534926247076" style="text-transform:uppercase;">$value[0]</div>
-									<div class="t812__pricelist-item__price t-name t-name_sm" field="li_text__1534926247076" style="">$value[1]</div>
+									<div class="t812__pricelist-item__title t-name t-name_sm" field="li_title__1534926247076" style="text-transform:uppercase;"><?php echo $value[0]; ?></div>
+									<div class="t812__pricelist-item__price t-name t-name_sm" field="li_text__1534926247076" style=""><?php echo $value[1]; ?></div>
 								</div>
 								<div class="t812__pricelist-item__line" style="opacity:0.9;">
 

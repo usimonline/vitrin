@@ -243,6 +243,7 @@ while($row = mysqli_fetch_array($res))
 	$header[$i]['teme'] = $row['teme'];
 	$header[$i]['description'] = $row['description'];
 	$header[$i]['text'] = $row['text'];
+	$header[$i]['url_ext'] = $row['url_ext'];
 	$header[$i++]['url'] = $row['url'];
 }
 

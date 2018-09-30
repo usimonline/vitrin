@@ -26,8 +26,9 @@
           <div class="t770__listwrapper t770__mobilelist">
             <ul class="t770__list">
               <li class="t770__list_item">
-                <a class="t-menu__link-item" href="<?php echo $site_url; ?>#rec64320842" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="1" data-tooltip-menu-id="64330707">Услуги
-
+                <?php $header_temp = unserialize($header[0]['url_ext']);?>
+                <a class="t-menu__link-item" href="<?php echo $site_url; ?><?php echo $header_temp[0][1]; ?>" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="1"
+                   data-tooltip-menu-id="64330707"><?php echo $header_temp[0][0]; ?>
                 </a>
               </li>
               <li class="t770__list_item"><a class="t-menu__link-item" href="http://<?php echo $site_name; ?>/<?php echo $sale_name; ?>" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="2">Акции</a>
@@ -73,7 +74,7 @@
                 </div> </div> </div></div></div>
         <div class="t770__bottomwrapper t-align_center" style="padding: 0 20px; height:0px;"><div class="t770__listwrapper t770__desktoplist">
             <ul class="t770__list">
-              <li class="t770__list_item"><a class="t-menu__link-item" href="<?php echo $site_url; ?>#rec64320842" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="1" data-tooltip-menu-id="64330707">Услуги</a>
+              <li class="t770__list_item"><a class="t-menu__link-item" href="<?php echo $site_url; ?><?php echo $header_temp[0][1]; ?>" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="1" data-tooltip-menu-id="64330707"><?php echo $header_temp[0][0]; ?></a>
               </li>
               <li class="t770__list_item"><a class="t-menu__link-item" href="http://<?php echo $site_name; ?>/<?php echo $sale_name; ?>" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="2">Акции</a></li>
               <li class="t770__list_item"><a class="t-menu__link-item" href="http://<?php echo $site_name; ?>/<?php echo $team_name; ?>" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="3">Команда</a></li> <li class="t770__list_item"><a class="t-menu__link-item" href="#rec60130970" style="color:#ffffff;font-weight:600;letter-spacing:0.5px;font-family:&#39;Ubuntu&#39;;text-transform:uppercase;" data-menu-item-number="4">Контакты</a></li> </ul></div></div></div></div>
@@ -141,7 +142,7 @@
   <div id="rec60130952" class="r t-rec" style="opacity: 1;" data-animationappear="off" data-record-type="466"><!-- T466 --><div id="nav60130952marker"></div><div id="nav60130952" class="t466 t466__positionfixed t466__beforeready" data-menu="yes" data-appearoffset="500px" style="top: 0PX;"> <div class="t466__container"> <div class="t466__container__bg t466__container__bg_main" style="background-color: rgba(0,0,0,1); " data-bgcolor-hex="#000000" data-bgcolor-rgba="rgba(0,0,0,1)" data-bgopacity="1" data-menu-shadow="0px 1px 3px rgba(0,0,0,0.)"></div> <div class="t466__item t466__menu"><a class="t-name t-descr_xxs t-menu__link-item" href="http://<?php echo $site_name; ?>" style="color:#ffffff;" data-menu-item-number="1">ГЛАВНАЯ</a></div>
 
         <div class="t466__item t466__menu">
-          <a class="t-name t-descr_xxs t-menu__link-item" href="#rec64320842" style="color:#ffffff;" data-menu-item-number="2">УСЛУГИ
+          <a class="t-name t-descr_xxs t-menu__link-item" href="<?php echo $site_url.$header_temp[0][0]; ?>" style="color:#ffffff;" data-menu-item-number="2"><?php echo $header_temp[0][0]; ?>
 
           </a></div>
 
@@ -152,7 +153,7 @@
         <div class="t466__item t466__menu"><a class="t-name t-descr_xxs t-menu__link-item" href="http://<?php echo $site_name; ?>/<?php echo $sale_name; ?>" style="color:#ffffff;" data-menu-item-number="4">АКЦИИ</a></div> <div class="t466__burger t466__small"> <div class="t466__burger_wrapper"> <span style="background-color:#ffffff;"></span> <span style="background-color:#ffffff;"></span> <span style="background-color:#ffffff;"></span> <span style="background-color:#ffffff;"></span> </div> </div> </div> <div class="t466__mobile"> <div class="t466__container"> <div class="t466__container__bg" style="background-color: rgba(0,0,0,1); " data-bgcolor-hex="#000000" data-bgcolor-rgba="rgba(0,0,0,1)" data-bgopacity="1" data-menu-shadow="0px 1px 3px rgba(0,0,0,0.)"></div> <div class="t466__item t466__menu"><a class="t-name t-descr_xxs" href="http://<?php echo $site_name; ?>" style="color:#ffffff;" data-menu-item-number="1">ГЛАВНАЯ</a></div>
 
           <div class="t466__item t466__menu">
-            <a class="t-name t-descr_xxs" href="#rec64320842" style="color:#ffffff;" data-menu-item-number="2" data-tooltip-menu-id="64330707">УСЛУГИ
+            <a class="t-name t-descr_xxs" href="<?php echo $site_url.$header_temp[0][0]; ?>" style="color:#ffffff;" data-menu-item-number="2" data-tooltip-menu-id="64330707"><?php echo $header_temp[0][0]; ?>
 
             </a>
           </div>

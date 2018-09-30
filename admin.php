@@ -60,7 +60,22 @@ if (!empty($_POST['teme'])){
 	);
 	$text = transform_img($text,$url,$pic_alt,$site_url);
 	$keys = $_POST["keys"];
+
+
+
 $url_ext = $_POST["url_ext"];
+
+
+	$url_ext = array( array($_POST["table_0_0"],$_POST["table_0_1"]),
+		array($_POST["table_1_0"],$_POST["table_1_1"]),
+		array($_POST["table_2_0"],$_POST["table_2_1"]),
+		array($_POST["table_3_0"],$_POST["table_3_1"]),
+		array($_POST["table_4_0"],$_POST["table_4_1"])
+	);
+
+	$url_ext = serialize($url_ext);
+
+
 $url_frame = $_POST["url_frame"];
 $url_int = $_POST["url_int"];
 $teme_int = $_POST["teme_int"];
@@ -264,7 +279,21 @@ $res = mysqli_query($link, $select);
 	$razdel = $row["razdel"];
 	$text = $row["text"];
 	$keys = $row["keys"];
-    $url_ext = $row["url_ext"];
+
+    if(!empty($_POST['url_ext'])) {
+		$url_ext = unserialize($row["url_ext"]);
+	} else {
+		$url_ext = array( array('',''),
+			array('',''),
+			array('',''),
+			array('',''),
+			array('','')
+		);
+	}
+
+
+
+
     $url_frame = $row["url_frame"];
     $url_int = $row["url_int"];
     $teme_int = $row["teme_int"];
@@ -287,7 +316,14 @@ $res = mysqli_query($link, $select);
 	$razdel = 'Не используется';
 	$text = 'Здесь текст страницы';
 	$keys = 'Ключи страницы';
-	$url_ext = 'Не используется';
+
+	$url_ext = array( array('',''),
+		array('',''),
+		array('',''),
+		array('',''),
+		array('','')
+	);
+
 	$url_frame = 'Не используется';
 	$url_int = 'Не используется';
 	$teme_int = 'Не используется';
@@ -295,13 +331,15 @@ $res = mysqli_query($link, $select);
 	$text_re = 0;
 }
 ?>
-
+<br><br>
 <h1>Панель добавления страниц</h1>
 <form method="POST" enctype="multipart/form-data" action="<?php echo $main_name; ?>/admin/<?php echo $keys_value; ?>/<?php echo $nomer_url; ?>/">
         <textarea style="width:500px; height:50px; border: 1px solid #cccccc;" name="teme" type="text" ><?php echo $teme; ?></textarea><br>
 		<textarea style="width:600px; height:50px; border: 1px solid #cccccc;" 
 		name="description" type="text" ><?php echo $description; ?></textarea><br>
-<textarea style="width:300px; height:25px; border: 1px solid #cccccc;" name="url_ext" type="text" ><?php echo $url_ext ?></textarea><br><br>
+
+
+
 <p>&lt;a target="_blank" href="\news\...\"&gt;&lt;/a&gt;</p>
 <?php 
 echo '&lt;/p&gt;&lt;img_2img&gt;&lt;p&gt;';?><br>
@@ -311,6 +349,15 @@ echo '&lt;/p&gt;&lt;h2&gt;&lt;/h2&gt;&lt;img_2img&gt;&lt;p&gt;';?><br>
 echo '&lt;/p&gt;&lt;h2&gt;&lt;/h2&gt;&lt;p&gt;';?><br>
 
 		<textarea style="width:800px; height:300px; border: 1px solid #cccccc;" name="text" type="text" ><?php echo $text ?></textarea><br>
+
+	<?php foreach ($url_ext as $key => $value) { ?>
+	<textarea style="width:300px; height:25px; border: 1px solid #cccccc;" name="table_<?php echo $key; ?>_0" type="text" >
+		<?php echo $value[0]; ?></textarea>
+		<textarea style="width:200px; height:25px; border: 1px solid #cccccc;" name="table_<?php echo $key; ?>_1" type="text" >
+		<?php echo $value[1]; ?></textarea><br>
+	<?php }?>
+
+
 <textarea style="width:600px; height:25px; border: 1px solid #cccccc;" name="url_frame" type="text" ><?php echo $url_frame ?></textarea><br>
 <textarea style="width:600px; height:100px; border: 1px solid #cccccc;" name="teme_int" type="text" ><?php echo $teme_int ?></textarea><br>
 <textarea style="width:600px; height:25px; border: 1px solid #cccccc;" name="url_int" type="text" ><?php echo $url_int ?></textarea><br>

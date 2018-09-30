@@ -44,7 +44,7 @@ if (empty($row)) {
 	$page['text'] = $row['text'];
 	$page['keys'] = $row['keys'];
 	$page['id'] = $row['id'];
-if ($row['url_ext'] == NULL) $page['url_ext'] = 'https://ria.ru/';
+if ($row['url_ext'] == NULL) $page['url_ext'] = 'a:10:{i:0;a:2:{i:0;s:29:"ИМИДЖ КАНДИДАТА";i:1;s:3:"100";}i:1;a:2:{i:0;s:49:"КОНСУЛЬТАЦИЯ ИМИДЖМЕЙКЕРА";i:1;s:2:"50";}i:2;a:2:{i:0;s:43:"ОБУЧЕНИЕ В ГРУППЕ ДЕТЕЙ";i:1;s:2:"30";}i:3;a:2:{i:0;s:56:"КУРС "ПОДБОР ОДЕЖДЫ ДЛЯ МУЖЧИН"";i:1;s:2:"30";}i:4;a:2:{i:0;s:0:"";i:1;s:0:"";}i:5;a:2:{i:0;s:0:"";i:1;s:0:"";}i:6;a:2:{i:0;s:0:"";i:1;s:0:"";}i:7;a:2:{i:0;s:0:"";i:1;s:0:"";}i:8;a:2:{i:0;s:0:"";i:1;s:0:"";}i:9;a:2:{i:0;s:0:"";i:1;s:0:"";}}';
 else $page['url_ext'] = $row['url_ext'];
 if ($row['url_frame'] == NULL) $page['url_frame'] = '';
 else $page['url_frame'] = '<p><iframe width="100%" height="360" src="'.$row['url_frame'].'" style="border: 0" allowfullscreen></iframe></p>';
@@ -324,7 +324,7 @@ if ($route){
 				Мы будем рады подарить вам хорошую информацию.";
 				$page['keys'] = "404-страница";
 				$page['id'] = '1522938060';
-				$page['url_ext'] = "https://by-by.info";
+				$page['url_ext'] = 'a:10:{i:0;a:2:{i:0;s:29:"ИМИДЖ КАНДИДАТА";i:1;s:3:"100";}i:1;a:2:{i:0;s:49:"КОНСУЛЬТАЦИЯ ИМИДЖМЕЙКЕРА";i:1;s:2:"50";}i:2;a:2:{i:0;s:43:"ОБУЧЕНИЕ В ГРУППЕ ДЕТЕЙ";i:1;s:2:"30";}i:3;a:2:{i:0;s:56:"КУРС "ПОДБОР ОДЕЖДЫ ДЛЯ МУЖЧИН"";i:1;s:2:"30";}i:4;a:2:{i:0;s:0:"";i:1;s:0:"";}i:5;a:2:{i:0;s:0:"";i:1;s:0:"";}i:6;a:2:{i:0;s:0:"";i:1;s:0:"";}i:7;a:2:{i:0;s:0:"";i:1;s:0:"";}i:8;a:2:{i:0;s:0:"";i:1;s:0:"";}i:9;a:2:{i:0;s:0:"";i:1;s:0:"";}}';
 				$page['url_frame'] = '';
 				$page['url_int'] = '/news/2018/04/04/1522848137/sayt-by-byinfo-i-ego-rol-v-mirovom-processe/';
 				$page['teme_int'] = 'Международная инициатива «Центр защиты национальных меньшинств»';
@@ -337,7 +337,7 @@ if ($route){
 				$page['text'] = $row['text'];
 				$page['keys'] = $row['keys'];
 				$page['id'] = $row['id'];
-				if ($row['url_ext'] == NULL) $page['url_ext'] = 'https://ria.ru/';
+				if ($row['url_ext'] == NULL) $page['url_ext'] = 'a:10:{i:0;a:2:{i:0;s:29:"ИМИДЖ КАНДИДАТА";i:1;s:3:"100";}i:1;a:2:{i:0;s:49:"КОНСУЛЬТАЦИЯ ИМИДЖМЕЙКЕРА";i:1;s:2:"50";}i:2;a:2:{i:0;s:43:"ОБУЧЕНИЕ В ГРУППЕ ДЕТЕЙ";i:1;s:2:"30";}i:3;a:2:{i:0;s:56:"КУРС "ПОДБОР ОДЕЖДЫ ДЛЯ МУЖЧИН"";i:1;s:2:"30";}i:4;a:2:{i:0;s:0:"";i:1;s:0:"";}i:5;a:2:{i:0;s:0:"";i:1;s:0:"";}i:6;a:2:{i:0;s:0:"";i:1;s:0:"";}i:7;a:2:{i:0;s:0:"";i:1;s:0:"";}i:8;a:2:{i:0;s:0:"";i:1;s:0:"";}i:9;a:2:{i:0;s:0:"";i:1;s:0:"";}}';
 				else $page['url_ext'] = $row['url_ext'];
 				if ($row['url_frame'] == NULL) $page['url_frame'] = '';
 				else $page['url_frame'] = '<p><iframe width="100%" height="360" src="' . $row['url_frame'] . '" style="border: 0" allowfullscreen></iframe></p>';

@@ -35,30 +35,8 @@ if (!empty($_POST['teme'])){
 	//}
 
 
+	//$text = transform_img($text,$url,$site_url);
 
-
-	$picture_text = $_POST["picture_text"];
-	$pic_alt_2 = $_POST["pic_alt_2"];
-	$pic_alt_3 = $_POST["pic_alt_3"];
-	$pic_alt_4 = $_POST["pic_alt_4"];
-	$pic_alt_5 = $_POST["pic_alt_5"];
-	$pic_alt_6 = $_POST["pic_alt_6"];
-	$pic_alt_7 = $_POST["pic_alt_7"];
-	$pic_alt_8 = $_POST["pic_alt_8"];
-	$pic_alt_9 = $_POST["pic_alt_9"];
-	$pic_alt_10 = $_POST["pic_alt_10"];
-	$pic_alt = array(
-		2 => $pic_alt_2,
-		$pic_alt_3,
-		$pic_alt_4,
-		$pic_alt_5,
-		$pic_alt_6,
-		$pic_alt_7,
-		$pic_alt_8,
-		$pic_alt_9,
-		$pic_alt_10
-	);
-	$text = transform_img($text,$url,$pic_alt,$site_url);
 	$keys = $_POST["keys"];
 
 

@@ -66,7 +66,7 @@ function preobrazovanie_url_razdel($url){
 
 
 
-function transform_img($string,$url,$pic_alt,$site_url) {
+function transform_img($string,$url,$site_url) {
 
 	$first = '<div class="t545__top t545__col t-col t-col_6 ">
 <div class="t545__blockimg t-bgimg loaded" bgimgfield="img" data-original="./index/rabotnik_03.png"
@@ -81,6 +81,20 @@ function transform_img($string,$url,$pic_alt,$site_url) {
 	$string = str_replace("<img_8img>", $first.'8'.$second, $string);
 	 $string = str_replace("<img_9img>", $first.'9'.$second, $string);
 	 $string = str_replace("<img_10img>", $first.'10'.$second, $string);
+
+	$first = '<div class="t-col t-col_3 t531__leftcol"><div class="t531__imgwrapper t531__imgwrapper_lg">
+<div class="t531__blockimg t-bgimg loaded" bgimgfield="li_img__1478078229569" data-original="./index/rabotnik_02.png"
+							 style="background-image: url(&quot;'.$site_url.'picture'.$url.'img_';
+	$second = '&quot;); padding-bottom: 146.154%;" data-image-width="260" data-image-height="380" src=""></div></div></div>';
+	$string = str_replace("<img_2img_smol>", $first.'2'.$second, $string);
+	$string = str_replace("<img_3img_smol>", $first.'3'.$second, $string);
+	$string = str_replace("<img_4img_smol>", $first.'4'.$second, $string);
+	$string = str_replace("<img_5img_smol>", $first.'5'.$second, $string);
+	$string = str_replace("<img_6img_smol>", $first.'6'.$second, $string);
+	$string = str_replace("<img_7img_smol>", $first.'7'.$second, $string);
+	$string = str_replace("<img_8img_smol>", $first.'8'.$second, $string);
+	$string = str_replace("<img_9img_smol>", $first.'9'.$second, $string);
+	$string = str_replace("<img_10img_smol>", $first.'10'.$second, $string);
 
 	$string = str_replace('<text_ne_udaliati>', '<div class="t-col t545__col t-col_6"><div class="t545__text t-text t-text_sm " field="text" style="">', $string);
 	$string = str_replace('</text_ne_udaliati>', '</div></div>', $string);

@@ -28,46 +28,7 @@
 		<!-- T056 -->
 
 		<div class="t056">
-
-			<div class="t-container t-align_center">
-
-
-				
-
-				<div class="t-col t545__col t-col_6">
-					<div class="t545__text t-text t-text_sm " field="text" style=""><?php echo $page['text']; ?>
-					</div></div>
-
-				<div class="t545__top t545__col t-col t-col_6 "><!-- Картинка -->
-
-					<div class="t545__blockimg t-bgimg loaded" bgimgfield="img" data-original="./index/rabotnik_03.png"
-						 style="background-image: url(&quot;<?php echo $main_name; ?>/index/rabotnik_03.png&quot;); height: 438px;" src="">
-
-					</div>
-				</div>
-
-				<div class="t-col t-col_3 t531__leftcol">
-
-					<div class="t531__imgwrapper t531__imgwrapper_lg">
-
-						<div class="t531__blockimg t-bgimg loaded" bgimgfield="li_img__1478078229569"
-							 data-original="./index/rabotnik_02.png"
-							 style="background-image: url(&quot;<?php echo $main_name; ?>/index/rabotnik_03.png&quot;);
-							 padding-bottom: 146.154%;" data-image-width="260" data-image-height="380" src="">
-
-						</div>
-					</div>
-
-				</div>
-
-				<div class="t-col t545__col t-col_6">
-					<div class="t545__text t-text t-text_sm " field="text" style=""><?php echo $page['text']; ?>
-					</div></div>
-
-
-
-
-
+			<div class="t-container t-align_center"><?php echo transform_img($page['text'],$page['url'],$site_url); ?>
 			</div>
 		</div>
 	</div>

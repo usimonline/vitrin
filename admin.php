@@ -361,7 +361,7 @@ echo '&lt;perenos_stroki&gt; - для переноса строки встави
 <textarea style="width:200px; height:30px; border: 1px solid #cccccc;" 
 		name="datetime" type="text" ><?php echo $datetime; ?></textarea><br>
 		<textarea 	 name="id" type="text" ><?php echo $id; ?></textarea><br>
-	<p>Тут нужно ввести имя страницы в браузере, слэши слева и справа не убирать</p>
+	<p>Тут нужно ввести относительный адрес страницы в браузере (без доменного имени), слэши слева и справа не убирать</p>
 		<textarea style="width:600px; height:25px; border: 1px solid #cccccc;" name="url" type="text" ><?php echo $url; ?></textarea><br>
         <p>Добавить картинки (360х230, jpg, Главная)</p>
 		<input type="hidden" name="MAX_FILE_SIZE" value="1500000">

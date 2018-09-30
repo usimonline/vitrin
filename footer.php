@@ -4,14 +4,15 @@
       <div class="t802__container t802__container_indent t802__container_clgap-10px" data-cols-in-line="5">
       <div class="t802__col t802__col_20">
           <a href="<?php echo $vk_name; ?>">
+
+
               <div class="t802__imgwrapper">
                   <div class="t802__hover-wrapper">
                       <div class="t802__hover-filter">
 
                       </div>
-                      <div class="t802__text t-text t-descr_xxs"><?php echo $do_i_posle_temp[7][0]; ?> 💎❤️⠀
-                ⠀
-                Запишитесь к нам сейчас по ...
+                      <?php $do_i_posle_temp = $lsidebar[0]['url_ext'];?>
+                      <div class="t802__text t-text t-descr_xxs"><?php echo $do_i_posle_temp[7][0]; ?>
                       </div>
                   </div>
                   <div class="t802__bgimg" style="background-image:url(&quot;<?php echo $main_name; ?>/<?php echo 'picture'.$lsidebar[0]['url'].'img_1'; ?>&quot;)">
@@ -24,7 +25,7 @@
                   <div class="t802__imgwrapper">
                       <div class="t802__hover-wrapper">
                           <div class="t802__hover-filter"></div>
-                          <?php $do_i_posle_temp = $lsidebar[0]['url_ext'];?>
+
                           <div class="t802__text t-text t-descr_xxs"><?php echo $do_i_posle_temp[0][0]; ?>
                           </div></div>
                       <div class="t802__bgimg" style="background-image:url(<?php echo $main_name; ?>/<?php echo 'picture'.$lsidebar[0]['url'].'img_2'; ?>)"></div></div></a> </div> <div class="t802__col t802__col_20"> <a href="<?php echo $vk_name; ?>"><div class="t802__imgwrapper">

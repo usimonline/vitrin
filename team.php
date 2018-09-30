@@ -59,7 +59,7 @@ require_once ('requisites.php');
 
                 <div class="t545__title t-heading t-heading_xs " field="title" style="">Мария Храмцова
                 </div>
-                
+
                 <div class="t545__descr t-descr t-descr_xs " field="descr" style="">Арт-директор
                 </div>
 
@@ -92,13 +92,20 @@ require_once ('requisites.php');
   <div id="rec60127376" class="r t-rec t-rec_pt_45 t-rec_pb_150" style="padding-top:45px;padding-bottom:150px; " data-record-type="531"><!-- T531 -->
     <div class="t531">
       <div class="t-container">
-        <div class="t531__row" style=""> <div class="t-col t-col_3 t531__leftcol">
+        <div class="t531__row" style="">
+
+
+          <div class="t-col t-col_3 t531__leftcol">
             <div class="t531__imgwrapper t531__imgwrapper_lg">
-              <div class="t531__blockimg t-bgimg loaded" bgimgfield="li_img__1478078229569" data-original="./index/rabotnik_02.png" style="background-image: url(&quot;./index/rabotnik_02.png&quot;); padding-bottom: 146.154%;" data-image-width="260" data-image-height="380" src="">
+              <div class="t531__blockimg t-bgimg loaded" bgimgfield="li_img__1478078229569"
+                   data-original="./index/rabotnik_02.png" style="background-image: url(&quot;./index/rabotnik_02.png&quot;); padding-bottom: 146.154%;"
+                   data-image-width="260" data-image-height="380" src="">
 
               </div>
             </div>
           </div>
+
+
           <div class="t-col t-col_5 t531__rightcol">
             <div class="t531__textwrapper t-align_left" style="height: 380px;">
               <div class="t531__content t-valign_middle">

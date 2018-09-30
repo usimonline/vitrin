@@ -280,16 +280,7 @@ $res = mysqli_query($link, $select);
 	$text = $row["text"];
 	$keys = $row["keys"];
 
-    if(!empty($_POST['url_ext'])) {
-		$url_ext = unserialize($row["url_ext"]);
-	} else {
-		$url_ext = array( array('',''),
-			array('',''),
-			array('',''),
-			array('',''),
-			array('','')
-		);
-	}
+	$url_ext = unserialize($row["url_ext"]);
 
 
 

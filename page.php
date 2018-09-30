@@ -69,57 +69,86 @@
 
 		<div id="rec64327773" class="r t-rec t-rec_pt_15 t-rec_pb_0 r_showed r_anim" style="padding-top:15px;padding-bottom:0px; " data-record-type="812">
 		<!-- t812 -->
-		<div class="t812">
 
-			<div class="t-container">
+			<div class="t812">
 
 
-				<div class="t812__col t-col t-col_6 ">
-
-					<?php foreach($url_ext as $key => $value) :
-						if ($key%2 == 0) : ?>
-
-					<div class="t812__pricelist-item ">
-						<div class="t812__pricelist-item__row_1 t-row">
-							<div class="t812__pricelist-item__title t-name t-name_sm" field="li_title__1534926247076" style="text-transform:uppercase;"><?php echo $value[0]; ?></div>
-							<div class="t812__pricelist-item__price t-name t-name_sm" field="li_text__1534926247076" style=""><?php echo $value[1]; ?></div>
-						</div>
-						<div class="t812__pricelist-item__line" style="opacity:0.9;">
-
-						</div>
-					</div>
-
-		            <?php endif;
-					endforeach; ?>
+				<div class="t-container">
 
 
 
+					<div class="t812__col t-col t-col_6 ">
 
-				</div>
 
-				<div class="t812__col t-col t-col_6 ">
-					<?php foreach($url_ext as $key => $value) :
-						if ($key%2 == 1) : ?>
+						<?php foreach($url_ext as $key => $value) :
 
-							<div class="t812__pricelist-item ">
-								<div class="t812__pricelist-item__row_1 t-row">
-									<div class="t812__pricelist-item__title t-name t-name_sm" field="li_title__1534926247076" style="text-transform:uppercase;"><?php echo $value[0]; ?></div>
-									<div class="t812__pricelist-item__price t-name t-name_sm" field="li_text__1534926247076" style=""><?php echo $value[1]; ?></div>
-								</div>
-								<div class="t812__pricelist-item__line" style="opacity:0.9;">
+							if ($key%2 == 0 and $value[0] != '') : ?>
+
+
+								<div class="t812__pricelist-item ">
+
+									<div class="t812__pricelist-item__row_1 t-row">
+
+										<div class="t812__pricelist-item__title t-name t-name_sm" field="li_title__1534926247076" style="text-transform:uppercase;"><?php echo $value[0]; ?></div>
+
+										<div class="t812__pricelist-item__price t-name t-name_sm" field="li_text__1534926247076" style=""><?php echo $value[1]; ?></div>
+
+									</div>
+
+									<div class="t812__pricelist-item__line" style="opacity:0.9;">
+
+
+									</div>
 
 								</div>
-							</div>
 
-						<?php endif;
-					endforeach; ?>
+
+							<?php endif;
+
+						endforeach; ?>
+
+
+
+
 
 					</div>
 
-				</div>
 
+					<?php if ($url_ext[1][0] != '' ) : ?>
+					<div class="t812__col t-col t-col_6 ">
+
+						<?php foreach($url_ext as $key => $value) :
+
+							if ($key%2 == 1 and $value[0] != '' ) : ?>
+
+
+								<div class="t812__pricelist-item ">
+
+									<div class="t812__pricelist-item__row_1 t-row">
+
+										<div class="t812__pricelist-item__title t-name t-name_sm" field="li_title__1534926247076" style="text-transform:uppercase;"><?php echo $value[0]; ?></div>
+
+										<div class="t812__pricelist-item__price t-name t-name_sm" field="li_text__1534926247076" style=""><?php echo $value[1]; ?></div>
+
+									</div>
+
+									<div class="t812__pricelist-item__line" style="opacity:0.9;">
+
+
+									</div>
+
+								</div>
+
+
+							<?php endif;
+
+						endforeach; ?>
+
+					</div>
+					<?php endif; ?>
+
+				</div>
 			</div>
-
 		</div>
 
 

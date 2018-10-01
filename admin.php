@@ -382,7 +382,7 @@ echo '&lt;perenos_stroki&gt; - для переноса строки встави
 	<input type="file" name="filename_9"><br>
 	<input type="file" name="filename_10"><br>
 	<input type="hidden" name="post_vk" value="<?php echo $post_vk; ?>">
-		<input style="width:200px; height:50px; border: 1px solid #cccccc;" type="submit" value="Отправить статью"/>
+		<input style="width:200px; height:50px; border: 1px solid #cccccc;" type="submit" value="Добавить услугу"/>
 		<br><br>
 </form>
 

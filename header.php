@@ -199,7 +199,7 @@
             </div>
             <div class="t-slds__item t-slds__item-loaded t-slds__item_active" data-slide-index="1" style="width: 1349px;">
               <div class="t734__slds-wrapper t-slds__wrapper" style="">
-                <div class="t-cover__carrier loaded" data-content-cover-bg="<?php echo $main_name; ?>/index/22222.jpg" style="background-image: url(&quot;<?php echo $main_name; ?>/picture<?php echo $header[0]['url']; ?>img_2&quot;); height: 60vh;" src="">
+                <div class="t-cover__carrier loaded" data-content-cover-bg="<?php echo $main_name; ?>/picture<?php echo $header[0]['url']; ?>img_2" style="background-image: url(&quot;<?php echo $main_name; ?>/picture<?php echo $header[0]['url']; ?>img_2&quot;); height: 60vh;" src="">
 
                 </div>
                 <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); ">
@@ -219,7 +219,7 @@
             </div>
             <div class="t-slds__item t-slds__item-loaded" data-slide-index="2" style="width: 1349px;">
               <div class="t734__slds-wrapper t-slds__wrapper" style="">
-                <div class="t-cover__carrier loaded" data-content-cover-bg="<?php echo $main_name; ?>/index/33333.png" style="background-image: url(&quot;<?php echo $main_name; ?>/picture<?php echo $header[0]['url']; ?>img_3&quot;); height: 60vh;" src="">
+                <div class="t-cover__carrier loaded" data-content-cover-bg="<?php echo $main_name; ?>/picture<?php echo $header[0]['url']; ?>img_3" style="background-image: url(&quot;<?php echo $main_name; ?>/picture<?php echo $header[0]['url']; ?>img_3&quot;); height: 60vh;" src="">
 
                 </div>
                 <div class="t-cover__filter" style="height:60vh; background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.20));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr=&#39;#7f000000&#39;, endColorstr=&#39;#cc000000&#39;); ">

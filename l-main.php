@@ -90,10 +90,22 @@
 
 	<div id="rec62435932" class="r t-rec t-rec_pt_30 t-rec_pb_30" style="padding-top:30px;padding-bottom:30px;background-color:#ffffff; " data-record-type="363" data-bg-color="#ffffff" data-animationappear="off">
 		<!-- T029 -->
+		<div class="t029">
+			<div class="t029__container t-container">
+				<div class="t029__col t-col t-col_12">
+					<div class="t029__linewrapper">
+						<div class="t029__opacity t029__opacity_left" style="background-image: -moz-linear-gradient(right, #000000, rgba(0,0,0,0)); background-image: -webkit-linear-gradient(right, #000000, rgba(0,0,0,0)); background-image: -o-linear-gradient(right, #000000, rgba(0,0,0,0)); background-image: -ms-linear-gradient(right, #000000, rgba(0,0,0,0));">
 
+						</div>
+						<div class="t029__line" style="background: #000000;">
 
+						</div>
+						<div class="t029__opacity t029__opacity_right" style="background-image: -moz-linear-gradient(left, #000000, rgba(0,0,0,0)); background-image: -webkit-linear-gradient(left, #000000, rgba(0,0,0,0)); background-image: -o-linear-gradient(left, #000000, rgba(0,0,0,0)); background-image: -ms-linear-gradient(left, #000000, rgba(0,0,0,0));">
 
-		<div class="t029"> <div class="t029__container t-container"> <div class="t029__col t-col t-col_12"> <div class="t029__linewrapper"> <div class="t029__opacity t029__opacity_left" style="background-image: -moz-linear-gradient(right, #000000, rgba(0,0,0,0)); background-image: -webkit-linear-gradient(right, #000000, rgba(0,0,0,0)); background-image: -o-linear-gradient(right, #000000, rgba(0,0,0,0)); background-image: -ms-linear-gradient(right, #000000, rgba(0,0,0,0));"></div> <div class="t029__line" style="background: #000000;"></div> <div class="t029__opacity t029__opacity_right" style="background-image: -moz-linear-gradient(left, #000000, rgba(0,0,0,0)); background-image: -webkit-linear-gradient(left, #000000, rgba(0,0,0,0)); background-image: -o-linear-gradient(left, #000000, rgba(0,0,0,0)); background-image: -ms-linear-gradient(left, #000000, rgba(0,0,0,0));"></div> </div> </div> </div>
+						</div>
+					</div>
+				</div>
+			</div>
 
 		</div>
 	</div>
@@ -139,7 +151,7 @@
 
 				<div class="t526__col t-col t-col_4 t-align_center t526__col-mobstyle"><div class="t526__itemwrapper t526__itemwrapper_3"><div class="t526__imgwrapper t-margin_auto">
 							<div class="t526__bgimg t526__img_circle t-margin_auto t-bgimg loaded" bgimgfield="li_img__1478015636342"
-								 data-original="<?php echo $main_name; ?>/index/rabotnik_01.png" style="background-image: url(&quot;<?php echo $main_name; ?>/picture<?php echo $toplist[0]['url'];?>img_1&quot;);" src="">
+								 data-original="<?php echo $main_name; ?>/picture<?php echo $toplist[0]['url'];?>img_1" style="background-image: url(&quot;<?php echo $main_name; ?>/picture<?php echo $toplist[0]['url'];?>img_1&quot;);" src="">
 							</div>
 						</div>
 						<div class="t526__wrappercenter">
@@ -152,14 +164,14 @@
 						<div class="t526__imgwrapper t-margin_auto">
 
 							<div class="t526__bgimg t526__img_circle t-margin_auto t-bgimg loaded" bgimgfield="li_img__1478015651388"
-																		  data-original="<?php echo $main_name; ?>/index/rabotnik_03.png" style="background-image: url(&quot;<?php echo $main_name; ?>/picture<?php echo $toplist[0]['url'];?>img_2&quot;);" src=""></div></div> <div class="t526__wrappercenter">
+																		  data-original="<?php echo $main_name; ?>/picture<?php echo $toplist[0]['url'];?>img_2" style="background-image: url(&quot;<?php echo $main_name; ?>/picture<?php echo $toplist[0]['url'];?>img_2&quot;);" src=""></div></div> <div class="t526__wrappercenter">
 							<div class="t526__persname t-name t-name_lg t526__bottommargin_sm" style="" field="li_persname__1478015651388"><?php echo $rabotniki_temp[1][0];?></div>
 							<div class="t526__persdescr t-descr t-descr_xxs t526__bottommargin_lg" style="" field="li_persdescr__1478015651388"><?php echo $rabotniki_temp[1][1];?></div>
 							<div class="t526__perstext t-text t-text_xs" style="" field="li_text__1478015651388"><?php echo $rabotniki_temp[4][0];?></div> </div></div> </div> <div class="t526__col t-col t-col_4 t-align_center t526__col-mobstyle"><div class="t526__itemwrapper t526__itemwrapper_3"><div class="t526__imgwrapper t-margin_auto">
 
 
 							<div class="t526__bgimg t526__img_circle t-margin_auto t-bgimg loaded" bgimgfield="li_img__1478015661335"
-								 data-original="<?php echo $main_name; ?>/index/rabotnik_02.png" style="background-image: url(&quot;<?php echo $main_name; ?>/picture<?php echo $toplist[0]['url'];?>img_3&quot;);" src=""></div></div>
+								 data-original="<?php echo $main_name; ?>/picture<?php echo $toplist[0]['url'];?>img_3" style="background-image: url(&quot;<?php echo $main_name; ?>/picture<?php echo $toplist[0]['url'];?>img_3&quot;);" src=""></div></div>
 						<div class="t526__wrappercenter">
 							<div class="t526__persname t-name t-name_lg t526__bottommargin_sm" style="" field="li_persname__1478015661335"><?php echo $rabotniki_temp[2][0];?></div>
 							<div class="t526__persdescr t-descr t-descr_xxs t526__bottommargin_lg" style="" field="li_persdescr__1478015661335"><?php echo $rabotniki_temp[2][1	];?></div>
